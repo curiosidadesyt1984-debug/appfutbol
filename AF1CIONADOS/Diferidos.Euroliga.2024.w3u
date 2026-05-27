@@ -1,0 +1,3395 @@
+{
+"name": "Liga Europea 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Euroliga.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+	[
+ 		{
+        	"name": "JORNADA 1",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            [
+			{
+			"name": "Bayern Munich VS Real Madrid",
+			"info": "[03/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://pixeldrain.com/u/LQegKaXH",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguires VS FC Barcelona",
+	        	"info": "[03/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/2kvz4uvyk81l/Euroliga_Zalguiris_VS_FC_Barcelona_031024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Milan",
+	        	"info": "[03/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/r4tmvj2gffcu/Euroliga_Monaco_VS_Milan_031024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Panathinaikos",
+	        	"info": "[03/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/ng51lzn7lafj/Euroliga_Alba_Berlin_VS_Panathinaikos_031024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS LDLC Asvel",
+	        	"info": "[03/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/i58ukumngabk/Euroliga_Maccabi_VS_LDLC_Asvel_031024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Partizan Belgrado",
+	        	"info": "[03/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/um24c5v4hs1s/Euroliga_Baskonia_VS_Partizan_031024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus Bologna VS Anadolu Efes",
+	        	"info": "[04/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/nnge2d97kv8w/Euroliga_Virtus_Bologna_VS_Anadolu_Efes_041024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Crvena Zvezda",
+	        	"info": "[04/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/loh0yxiyi4w3/Euroliga_Paris_VS_Crvena_Zvezda_041024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Olympiacos",
+	        	"info": "[04/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/km9j66oexsv7/Euroliga_Fenerbahce_VS_Olympiacos_041024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+ 		{
+        	"name": "JORNADA 2",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Estrella Roja VS Baskonia",
+	        	"info": "[09/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/bijyciry9mpg/Euroliga_Estrella_Roja_VS_Baskonia_091024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "AS Monaco VS Maccabi Tel Aviv",
+	        	"info": "[09/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/zid9ji1qm019/Euroliga_AS_Monaco_VS_Maccabi_Playtika_Tel_Aviv_091024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Partizan Belgrado",
+	        	"info": "[10/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/t5rwwqssc0ln/Euroliga_Real_Madrid_VS_Partizan_101024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Bayern Munich",
+	        	"info": "[10/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/abo9z4v2l434/Euroliga_Panathinaikos_VS_Bayern_Munich_101024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "LDLC Asvel VS Virtus Bologna",
+	        	"info": "[10/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/z5o1k8ov0ojo/Euroliga_LDLC_Asvel_VS_Virtus_Bologna_101024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Anadolu Efes VS Fenerbache",
+	        	"info": "[10/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/d8wrqupykogy/Euroliga_Anadolu_Efes_VS_Fenerbahce_101024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiacos VS Zalgiris",
+	        	"info": "[11/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/9uks35zi8uc2/Euroliga_Olympiacos_VS_Zalgiris_111024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Paris",
+	        	"info": "[11/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/luk1zmu2axns/Euroliga_Milan_VS_Paris_111024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Alba Berlin",
+	        	"info": "[11/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/trwsx475hwd7/Euroliga_FC_Barcelona_VS_Alba_Berlin_111024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 3",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Virtus VS Zalguiris",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/qrogodmgy6v9/Euroliga_Virtus_VS_Zalguiris_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Asvel",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/qmvy8xcs7j25/Euroliga_Alba_Berlin_VS_Asvel_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Bayern Munich",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/j08wika2te9s/Euroliga_Partizan_VS_Bayern_Munich_151024_.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Real Madrid",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/oe54we181oet/Euroliga_Baskonia_VS_Real_Madrid_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Panathinaikos",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/ujgarta3a5bw/Euroliga_Paris_VS_Panathinaikos_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiacos VS EA7 Milan",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/cixaduldkwos/Euroliga_Olympiacos_VS_EA7_Milan_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Anadolu Efes",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/ftrvky09mro2/Euroliga_Maccabi_VS_Anadolu_Efes_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Crvena Zvezda",
+	        	"info": "[15/10/24]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/dzlf0jry4v5r/Euroliga_Fenerbahce_VS_Crvena_Zvezda_151024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Monaco",
+	        	"info": "[16/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/27qnu4m34xus",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 4",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Alba Berlin VS Fenerbache",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/dtmnktk2sqtd/Euroliga_Alba_VS_Fenerbahce_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Paris",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/4wrsj63pw7lc/Euroliga_Bayern_VS_Paris_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi Tel Aviv VS Partizan Belgrado",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/f4oilpgpxmc7/Euroliga_Maccabi_VS_Partizan_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Zalguiris",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/hm0fn2qpvc0m/Euroliga_Milan_VS_Zalguiris_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Panathinaikos",
+	        	"info": "[17/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/8kd8uo1fo028/Euroliga_Real_Madrid_VS_Panathinaikos_171024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Baskonia",
+	        	"info": "[18/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/2cyyrrlnpe2m/Euroliga_Asvel_VS_Baskonia_181024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Crvevna VS FC Barcelona",
+	        	"info": "[18/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/vsni2f5g420i/Euroliga_Crvevna_VS_Barsa_181024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Virtus",
+	        	"info": "[18/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/g4v3ervb8u9d/Euroliga_Monaco_VS_Virtus_181024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Olympiacos",
+	        	"info": "[18/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/efna4mawtrr4/Euroliga_Efes_VS_Olympiakos_181024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 5",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Zalguiris VS Maccabi",
+	        	"info": "[24/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/xv67vhoheso3/Euroliga_Zalguiris_VS_Maccabi_241024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Estrella Roja",
+	        	"info": "[24/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/8k3f73u60qh6/Euroliga_Real_Madrid_VS_Estrella_Roja_241024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Paris",
+	        	"info": "[24/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/15qdtj8mpx8z/Euroliga_Monaco_VS_Paris_241024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Milan",
+	        	"info": "[24/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/2obuk142mua3/Euroliga_Efes_VS_Milan_241024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Alba Berlin",
+	        	"info": "[24/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/9y4cmnxcnjod/Euroliga_Baskonia_VS_Alba_241024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Panathinaikos",
+	        	"info": "[25/10/24]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/s9vpnt1lbcp3/Euroliga_Fenerbahce_VS_Panathinaikos_251024.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Asvel",
+	        	"info": "[25/10/24]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/8rpni673leka/Euroliga_Barsa_VS_Asvel_251024.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Olympiakos",
+	        	"info": "[25/10/24]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/ld60ofuhwfsh/Euroliga_Bayern_Munich_VS_Olympiakos_251024.mkv",
+			"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 6",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        "info": "[29/10/24]",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Virtus VS Bayern Munich",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/z7cxk0t0jomx/Euroliga_Virtus_VS_Bayern.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Maccabi",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/nakvrdpvyck5/Euroliga_Fenerbahce_VS_Maccabi_291024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Paris Saint Germain",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/6zla0sd9dr8o/Euroliga_Alba_VS_Paris_291024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS FC Barcelona",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/xu1bv0uvh1ka/Euroliga_Efes_VS_Barsa_291024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Real Madrid",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/0wnas670a4lk/Euroliga_Olympiakos_VS_Real_Madrid_291024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Milan",
+	        	"info": "[29/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/s751yxnvs1n5/Euroliga_Baskonia_VS_Milan_291024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Crvena Belgrado",
+	        	"info": "[30/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/9p7r69mebows/Euroliga_Zalguiris_VS_Crvena_301024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Asvel",
+	        	"info": "[30/10/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/xb0ckp2tqooh/Euroliga_Panathinaikos_VS_Asvel_301024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 7",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+       			"name": "Milan VS Virtus",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/1t7ntapcsv0p/Euroliga_Milan_VS_Virtus_311024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Efes",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/5q0g7s3njpcr/Euroliga_Alba_VS_Efes_311024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Olympiakos",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fp95626nu34q/Euroliga_FC_Barcelona_VS_Olympiakos_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Maccabi",
+	        	"info": "31/10/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/9azgmhfizx75/Euroliga_Madrid_VS_Maccabi_31_10_2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Partizan Belgrado",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/uhnewch982m8/Euroliga_Fenerbache_VS_Partizan_Belgrado_01.11.2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Paris VS Baskonia",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/0n5mhmaatcns/Euroliga_Paris_VS_Baskonia_01.11.2024.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Panathinaikos",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/4lf3iaadf5qj/Euroliga_Estrella_Roja_VS_Panathinaikos_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zalguiris VS Monaco",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/oa0xgbl1h43c/Euroliga_Zalguiris_VS_Monaco_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Bayern Munich",
+	        	"info": "01/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/gblr0bu0sqg8/Euroliga_Asvel_VS_bayern_Munich_011124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 8",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Paris VS Partizan Belgrado",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fldo0s3f8nr8/Euroliga_Paris_VS_Partizan_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Real Madrid",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/8v68pfosauf8/Euroliga_Olimpiakos_VS_Real_Madrid_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Alba Berlin",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/9e149bdwvam8/Euroliga_Crvena_VS_Alba_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Zalguiris",
+	        	"info": "07/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/1y1r30xnmzr2/Euroliga_Bayern_VS_Zalguiris_071124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Baskonia",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/c01ykmsjfvlz/Euroliga_Bar_a_vs_Baskonia_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Monaco",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/t2yljp98xyh0/Euroliga_Efes_vs_Monaco_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Maccabi",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/dl2guldbkrfz/Euroliga_Virtus_vs_Maccabi_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Fenerbache",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/2jzuuevuddef/Euroliga_Asvel_vs_Fenerbahce_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Olympiakos",
+	        	"info": "08/11/24",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/7ivowqxwxbrd/Euroliga_Panathinaikos_vs_Olympiacos_081124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 9",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Fenerbache VS Bayern Munich",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/fgvta226y0oz/Euroliga_Fenerbahce_VS_Bayern_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Estrella Roja Belgrado",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/k27kd3wl6lzx/Euroliga_Monaco_VS_Estrella_Roja_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Maccabi Tel Aviv",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/ig2fauzl82bv/Euroliga_Panathinaikos_VS_Maccabi_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiacos VS Asvel",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+	        	"url": "https://filemoon.sx/d/5bczomtsumja/Euroliga_Olympiacos_VS_Asvel_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Virtus",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/8o9htg5klxlq/Euroliga_Real_Madrid_VS_Virtus_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Milan",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/hzkc3ssqfk71/Euroliga_Alba_VS_Milan_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Efes",
+	        	"info": "[12/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/semsr4ix5h33/Euroliga_Baskonia_VS_Efes_121124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS FC Barcelona",
+	        	"info": "[13/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/uxesfqek9fga/Euroliga_Partizan_VS_Barsa_131124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Zalguiris",
+	        	"info": "[13/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/zcqs7e5op2oa/Euroliga_Paris_VS_Zalguiris_131124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 10",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Maccabi Tel Aviv VS Olympiakos",
+	        	"info": "[14/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/0xu4651i3zy0/Euroliga_Maccabi_VS_olympiakos_141124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Efes",
+	        	"info": "[14/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/pfgwvrkh4zbz/Euroliga_Madrid_VS_Efes_141124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Alba Berlin",
+	        	"info": "[14/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/whybp311p81o/Euroliga_Bayern_VS_Alba_141124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Monaco",
+	        	"info": "[14/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/iqdf1ktoxkza/Euroliga_Baskonia_VS_Monaco_141124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Estrella Roja Belgrado",
+	        	"info": "[14/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/msyfwrf1q704/Euroliga_Asvel_VS_Estrella_Roja_141124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Paris",
+	        	"info": "[15/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/qtd7j44d2429/Euroliga_Barsa_VS_Paris_151124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Milan",
+	        	"info": "[15/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/2dd5twep47md/Euroliga_Partizan_VS_Milan_151124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Panathinaikos",
+	        	"info": "[15/11/24]",
+			"online": "true",
+	        	"image": "https://media-cdn.incrowdsports.com/acfa0dae-e17a-4dbb-8082-db7885a3c850.jpg?crop=1332%3A749%3Anowe%3A292%3A108&width=1440&resizeType=fill&format=webp",
+	        	"url": "https://filemoon.sx/d/3t1cxl5fragq/Euroliga_Virtus_VS_Panathinaikos_151124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Fenerbache",
+	        	"info": "[15/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/pilvz83qsdqd/Euroliga_Zalguiris_VS_Fenerbahce_151124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 11",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Virtus VS Fenerbache",
+	        	"info": "[20/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/87ma4ijm6pg7/Euroliga_Virtus_VS_Fenerbahce_201124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Alba Berlin",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/5fvadydylwrt/Euroliga_Real_Madrid_VS_Alba_Berlin_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Baskonia",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/ysvziheegqot/Euroliga_Olympiacos_VS_Baskonia_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Asvel",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/z9td8nu19oju/Euroliga_Monaco_VS_Asvel_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Maccabi",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/begowl5dj8a6/Euroliga_Milan_VS_Maccabi_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja Belgrado VS Partizan Belgrado",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/wt4k8u8vtk1x/Euroliga_Estrella_Roja_VS_Partizan_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "EFES VS Paris",
+	        	"info": "[21/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/17kzzrop04ke/Euroliga_EFES_VS_Paris_211124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Panathinaikos",
+	        	"info": "[22/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/np3k6ps2ow4p/Euroliga_Zalguiris_VS_Panathinaikos_221124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS FC Barcelona",
+	        	"info": "[22/11/24]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.sx/d/35vahaecnxt9/Euroliga_Bayer_VS_Barsa_221124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 12",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Alba Berlin VS Maccabi Tel Aviv",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/kw4fnavobcsc/Euroliga_Alba_VS_Maccabi_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Real Madrid",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/dgkxdees3zw5/Euroliga_Barsa_VS_MaDrid_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Virtus",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/2bclmtwvq9y5/Euroliga_Paris_VS_Virtus_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Olympiakos",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/i98svfdonzdk/Euroliga_Partizan_VS_Olympiakos_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Baskonia",
+	        	"info": "[28/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/zwea5zcyp4sq/Euroliga_Zalguiris_VS_Baskonia_281124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Efes",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/88cczo43b1xo/Euroliga_Asvel_VS_Efes_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Bayern Munich",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/tf65sgil8202/Euroliga_Estrella_Roja_VS_Bayern_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Milan",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/4233fin3bzru/Euroliga_Fenerbahce_VS_Milan_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Monaco",
+	        	"info": "[29/11/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.sx/d/ts5ba1fg6teb/Euroliga_Panathinaikos_VS_Monaco_291124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 13",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Panathinaikos VS FC Barcelona",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/sudafawwjc9j/Euroliga_Panathinaikos_VS_Barsa_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Lyon VS Real Madrid",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/rdroeb1ckgrw/Euroliga_Lyon_VS_Real_Madrid_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Fenerbache",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/h8zkpmmeqxz6/Euroliga_Baskonia_VS_Fenerbahce_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan VS Zalguiris",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/fzg8jhxtbdhh/Euroliga_Partizan_VS_Zalguiris_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Bayern Munich",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/7t8o0kyajsx0/Euroliga_Efes_VS_Bayern_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Paris Saint Germain",
+	        	"info": "[03/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/qu6twqswvd2u/Euroliga_Maccabi_VS_Paris_031224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Olympiakos",
+	        	"info": "[04/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/1g5otidjqt06/Euroliga_Monaco_VS_Olympiakos_041224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Estrella Roja Belgrado",
+	        	"info": "[04/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/nlvjzb6ekd2l/Euroliga_Milan_VS_Estrella_Roja_041224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Alba Berlin",
+	        	"info": "[04/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/o7ohq4iobd78/Euroliga_Virtus_VS_Alba_041224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 14",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Zalguiris VS EFES",
+	        	"info": "[05/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/2b8y99tdqfbt/Euroliga_Zalguiris_VS_Efes_051224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Panathinaikos",
+	        	"info": "[05/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/rbwyj4rozn78/Euroliga_Partizan_VS_Panathinaikos_051224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Fenerbache",
+	        	"info": "[05/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/y9bw7j8u69wg/Euroliga_Real_Madrid_VS_Fenerbahce_051224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS FC Barcelona",
+	        	"info": "[05/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/rhgsv7bo38k0/Euroliga_Maccabi_VS_Barsa_051224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Baskonia",
+	        	"info": "[05/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/zpzfct1kivlu/Euroliga_Bayern_VS_Baskonia_051224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Alba Berlin",
+	        	"info": "[06/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/umw2ygbhyvxr/Euroliga_Monaco_VS_AlbaParis_061224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Paris Saint Germain",
+	        	"info": "[06/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/r10auc5pw2vq/Euroliga_Olympiakos_VS_Paris_061224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Estrella Roja",
+	        	"info": "[06/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/1kxhw5fznue3/Euroliga_Virtus_VS_Estrella_Roja_061224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Asvel",
+	        	"info": "[06/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/7vjbvmg9ckx8/Euroliga_Milan_VS_Asvel_061224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 15",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Fenerbache VS Monaco",
+	        	"info": "[12/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/vhrig4tduikf/Euroliga_Fenerbahce_VS_Monaco_121224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Maccabi",
+	        	"info": "[12/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/26pmlaowllw2/Euroliga_Bayern_VS_Maccabi_121224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Partizan Belgrado",
+	        	"info": "[12/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/u0i5kx53yncj/Euroliga_Alba_VS_Partizan_121224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Virtus",
+	        	"info": "[12/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/50b8zml7m9o2/Euroliga_Baskonia_VS_Virtus_121224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Zalguiris",
+	        	"info": "[12/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/p2s3ycgjf08d/Euroliga_Madrid_VS_Zalguiris_121224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Paris",
+	        	"info": "[13/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/bmjuuoibigwm/Euroliga_Asvel_VS_Paris_131224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Milan",
+	        	"info": "[13/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/71sl8b8nq3vy/Euroliga_Barcelona_VS_Milan_131224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "EFES VS Panathinaikos",
+	        	"info": "[13/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/asaty0dgf834/Euroliga_Efes_VS_Panathinaikos_131224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Olympiacos",
+	        	"info": "[13/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/3hxkwsl40sbi/Euroliga_Estrella_Roja_VS_Olympiacos_131224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 16",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Paris VS Real Madrid",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/h37uan5bsdq2/Euroliga_Paris_VS_Real_Madrid_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan VS Asvel",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/tk1f5357eckv/Euroliga_Partizan_VS_Asvel_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Milan",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/1lf24zoylwrk/Euroliga_Panathinaikos_VS_Milan_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Baskonia",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/wbg4mjod9dt6/Euroliga_Maccabi_VS_Baskonia_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS Bayern Munich",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/4n2tqkzolpne/Euroliga_Monaco_VS_Bayern_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba VS Zalguiris",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/8cg72jacqjk8/Euroliga_Alba_VS_Zalguiris_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Fenerbache",
+	        	"info": "[17/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/5x2p98t242mk/Euroliga_Barsa_VS_Fenerbahce_171224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "EFES VS Estrella Roja Belgrado",
+	        	"info": "[18/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/4eb4l3262irs/Euroliga_Efes_VS_Estrella_roja_181224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Virtus",
+	        	"info": "[18/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/qysyk09gma7v/Euroliga_Olympiakos_VS_Virtus_181224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 17",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Panathinaikos VS Baskonia",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/qkv3keggfpyi/Euroliga_Panathinaikos_VS_Baskonia_191224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Monaco",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/dbej5ahsofnf/Euroliga_Real_Madrid_VS_Monaco_191224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "[19/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "EFES VS Partizan Belgrado",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/ntidof9bri73/Euroliga_Efes_VS_Partizan_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja VS Maccabi",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/oovl8gyf5gsm/Euroliga_Estrella_Roja_VS_Maccabi_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Alba Berlin",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/zeoi0n7ksngr/Euroliga_Olympiakos_VS_Alba_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS FC Barcelona",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/x0grc4gwmmz8/Euroliga_Virtus_VS_Barsa_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Asvel",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/tc1qj3190jkn/Euroliga_Zalguiris_VS_Asvel_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Bayern Munich",
+	        	"info": "[20/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/z7t4c1r5lgjk/Euroliga_Milan_VS_Bayern_201224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 18",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Alba Berlin VS Real Madrid",
+	        	"info": "[26/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/boqwi0fuphmb/Euroliga_Alba_VS_Real_Madrid_261224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Olympiakos",
+	        	"info": "[26/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/hyhohksb8kan/Euroliga_Milan_VS_Olympiakos_261224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS EFES",
+	        	"info": "[26/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/oy6t9sbiyvxh/Euroliga_Monaco_VS_Efes_261224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Zalguiris",
+	        	"info": "[26/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/knn70five2wi/Euroliga_Maccabi_VS_Zalguiris_261224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Paris",
+	        	"info": "[27/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/a0fat2b75pan/Euroliga_Baskonia_VS_Paris_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Estrella Roja Belgrado",
+	        	"info": "[27/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/2byst2pzqz5w/Euroliga_Barsa_VS_Estrella_Roja_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Asvel",
+	        	"info": "[27/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/64x9nji8xz03/Euroliga_Virtus_VS_Asvel_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Partizan Belgrado VS Fenerbache",
+	        	"info": "[27/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/kv8e11kzykoh/Euroliga_Partizan_VS_Fenerbahce_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Panathinaikos",
+	        	"info": "[27/12/24]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "https://filemoon.to/d/fpupqtdwko98/Euroliga_Bayern_VS_Panathinaikos_271224.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 19",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Zalguiris VS Olympiakos",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/pdbgpui29zfo/Euroliga_Zalguiris_VS_Olympiakos_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba Berlin VS Monaco",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/cci2vyhbc962/Euroliga_Alba_VS_Monaco_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Milan",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/vgw9uuytarrp/Euroliga_Asvel_VS_Milan_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Estrella Roja Belgrado",
+	        	"info": "[02/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/e7px72uqyzru/Euroliga_Baskonia_VS_Estrella_Roja_020125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS EFES Anadolu",
+	        	"info": "[03/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/mqhyjxntssuc/Euroliga_Fenerbahce_VS_Efes_030125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Virtus",
+	        	"info": "[03/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/mptwqrcop5q1/Euroliga_Panathinaikos_VS_virtus_030125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Bayern Munich",
+	        	"info": "[03/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/rwdnru6drz6g/Euroliga_Real_Madrid_VS_Bayern_030125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris Saint Germain VS FC Barcelona",
+	        	"info": "[03/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ondy34o7t1t6/Euroliga_Paris_VS_Barsa_030125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "",
+	        	"info": "[03/01/25]",
+			"online": "true",
+	        	"image": "",
+	        	"url": "",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 20",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	        	"info": "[09/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/0czh5pon2q97/Euroliga_Monaco_VS_Barsa_090125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Milan",
+	        	"info": "[09/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/vmksc3asi3vj/Euroliga_Maccabi_VS_Milan_090125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Alba Berlin",
+	        	"info": "[09/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/tvw3w75yhlf1/Euroliga_Fenerbahce_VS_Alba_090125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinikos VS Partizan Belgrado",
+	        	"info": "[09/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/zc86ltnvnv32/Euroliga_Panathinaikos_VS_Partizan_090125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Real Madrid",
+	        	"info": "[10/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/mwurb9maczfl/Euroliga_Zalguiris_VS_Madrid_100125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Baskonia",
+        		"info": "[10/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4pb1g6xcqeoh/Euroliga_Virtus_VS_Baskonia_100125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Bayern Munich",
+        		"info": "[10/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ey3af52c6ncx/Euroliga_Olympiakos_VS_Bayern_100125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja Belgrado VS Paris",
+        		"info": "[10/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/67le5ej88alf/Euroliga_Estrella_Roja_VS_Paris_100125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Asvel",
+        		"info": "[10/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/c7m6e59cip1a/Euroliga_Efes_VS_Asvel_100125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 21",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Asvel VS Partizan",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/v4j4r04z8r77/Euroliga_Asvel_VS_Partizan_140124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Alba Berlin",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/qilq9tu2ia54/Euroliga_Milan_VS_Berlin_140124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris VS Efes",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/kbok4k07b3j6/Euroliga_Paris_VS_Efes_140124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja Belgrado VS Fenerbache",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8ts2fmp4h317/Euroliga_Estrella_Roja_VS_Fenerbahce_150124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Maccabi Tel Aviv",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/31uqhe1scnm4/Euroliga_Real_Madrid_VS_Maccabi_140125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Olympiacos",
+        		"info": "[14/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8u7mihohr7e3/Euroliga_Baskonia_VS_Olympiakos_140125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Zalguiris VS Virtus",
+        		"info": "[15/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/2zjm03m2kflo/Euroliga_Zalguiris_VS_Virtus_150125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern VS Monaco",
+        		"info": "[15/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/tnrdryz7rng9/Euroliga_Bayern_VS_Monaco_150124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Panathinaikos",
+        		"info": "[15/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8p6r684ylwxs/Euroliga_Barsa_VS_Panatinaikos_150125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 22",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Paris VS Maccabi",
+        		"info": "[16/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/anlnpp7fm6vg/Euroliga_Paris_VS_Maccabi_160125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Milan VS Partizan",
+        		"info": "[16/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/617vqetn0n4g/Euroliga_Milan_VS_Partizan_160125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS Alba",
+        		"info": "[16/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6x4stnecd3on/Euroliga_Asvel_VS_Alba_160124.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Olympiacos",
+        		"info": "[16/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/pv6fu7o7irbo/Euroliga_Real_MAdrid_VS_Olympiacos_160125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Bayern Munich VS Virtus",
+        		"info": "[17/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/rsa6sfyzwpgq/Euroliga_Bayern_VS_Virtus_170125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Estrella Roja Belgrado VS Monaco",
+        		"info": "[17/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xvkaxpg7wjrx/Euroliga_Estrella_Roja_VS_Monaco_170125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Zalguiris",
+        		"info": "[17/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/bw07fead82i8/Euroliga_Fenerbahce_VS_Zalguiris_170125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Baskonia VS Panathinaikos",
+        		"info": "[17/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/oxyx7u3fbpph/Euroliga_Baskonia_VS_Panathinaikos_170125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona VS Efes",
+        		"info": "[17/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/v1yv6p4wq284/Euroliga_Barsa_VS_Efes_170125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+		},
+
+		{
+        	"name": "JORNADA 23",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+	       		{
+ 	       		"name": "Partizan Belgrado VS Paris",
+        		"info": "[22/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/3j4op2gqznpk/Euroliga_Partizan_VS_Paris_220125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Virtus VS Monaco",
+        		"info": "[23/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/r3zotjtf3u1u/Euroliga_Virtus_VS_Monaco_230125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Zalguiris",
+        		"info": "[23/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/cqv9lifxjhtu/Euroliga_Phanathinaikos_VS_Zalguiris_230125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Maccabi VS Estrella Roja",
+        		"info": "[23/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/judl65046432/Euroliga_Maccabi_VS_Estrella_Roja_230125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Milan",
+        		"info": "[23/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/1c9zc0zr965v/Euroliga_Efes_VS_Milan_230125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Baskonia",
+        		"info": "[23/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xv8ssc9ia2rj/Euroliga_Real_Madrid_VS_Baskonia_230125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Fenerbache",
+        		"info": "[24/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/r0wn7ptwm0yt/Euroliga_Olympiakos_VS_Fenerbahce_240125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Asvel VS FC Barcelona",
+        		"info": "[24/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/18wuypipwnwm/Euroliga_Asvel_VS_FC_Barcelona_240125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Alba VS Bayern",
+        		"info": "[24/01/25]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/608mc2v825ox/Euroliga_Alba_VS_Bayern_240125.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            	]
+	},
+
+	{
+        "name": "JORNADA 24",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Zalguiris VS Bayern Munich",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/g8a1ltzpl7z8/Euroliga_Zalguiris_VS_Bayern_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Paris VS Asvel",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/u7pu59cggkq4/Euroliga_Paris_VS_Asvel_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Panathinaikos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/r97c32hw9khz/Euroliga_Milan_VS_Panathinaikos_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/b0jphvu4hw9u/Euroliga_Maccabi_VS_Alba_300125.mkv",
+	        	"info": "[30/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/kxj20hvwfrjv/Euroliga_Fenerbahce_VS_Virtus_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS EFES",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/zzj87auqyfrg/Euroliga_Olympiacos_VS_Efes_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/v77hq9l4f81y/Euroliga_Baskonia_VS_Barsa_300125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6al57fpjmxbz/Euroliga_Monaco_VS_Real_Madrid_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Paris VS Estrella Roja Belgrado",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xh32bpvbztqc/Euroliga_Paris_VS_Estrella_Roja_310125.mkv",
+	        	"info": "[31/01/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 25",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Efes VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/6xqc0nzlnwl3",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zalguiris VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Panathinaikos VS Fenerbache",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Asvel",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Milan",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[04/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Maccabi",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/03tve31gi1h0",
+	        	"info": "[05/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[05/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 26",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Bayern Munich VS Asvel",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/emyyjil0f39k",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Estrella Roja",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/fv86etd4f9g4",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Maccabi",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/geblgqa3rydp",
+	        	"info": "[07/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Olympiakos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://ryderjet.com/file/4pbc136xap87",
+	        	"info": "[06/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 27",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Paris VS Bayern Munich",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/dpk12cu3gy49/Euroliga_Paris_VS_Bayern_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Monaco",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/iy4mtgx8my4h/Euroliga_Milan_VS_Monaco_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi Tel Aviv VS Fenerbache",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/zgr53i85imk3/Euroliga_Maccabi_VS_fenerbahce_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/n72dzrt30y3d/Euroliga_Real_Madrid_VS_FC_Barcelona_270225.mkv",
+	        	"info": "[27/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Partizan Belgrado VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/t1i801k73plz/Euroliga_Partizan_vs_Baskonia280225.mkv",
+	        	"info": "[28/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Panathinaikos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/hzktyyunpafy/Euroliga_Asvel_VS_Panathinaikos_280225.mp4",
+	        	"info": "[28/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Efes VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/b4rrw9t7tmo6/Euroliga_Efes_VS_Alba_Berlin_280225.mp4",
+	        	"info": "[28/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Virtus VS Olympiakos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/agjmy3pftgdw/Euroliga_Virtus_VS_Olympiakos_280225.mp4",
+	        	"info": "[28/02/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 28",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "^Panathinaikos VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/id3fxzgxtfej/Euroliga_Panathinaikos_VS_Real_Madrid_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Fenerbache",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/66clt8n6053j/Euroliga_Milan_VS_Fenerbahce_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Estrella Roja",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ums18of2ehij/Euroliga_Bayern_VS_Estrella_Roja_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/o19vbk3b6s1n/Euroliga_Baskonia_VS_Zalguiris_060325.mkv",
+	        	"info": "[06/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8kpyue0giqz0/Euroliga_Alba_VS_Barsa_070325.mkv",
+	        	"info": "[07/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS Partizan Belgrado",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/t13b5bsv8zdb/Euroliga_Olympiakos_VS_Partizan_070325.mkv",
+	        	"info": "[07/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "EFES VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/0yhbe91hz7br/Euroliga_Efes_VS_Virtus_070325.mkv",
+	        	"info": "[07/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Maccabi",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/wgvxf7ff22rx/Euroliga_Asvel_VS_Maccabi_070325.mkv",
+	        	"info": "[07/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 29",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Zalguiris VS Paris",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/b90r7gd49od6/Euroliga_Zalguiris_VS_Paris_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Asvel",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/fg3cwyy7bvt6/Euroliga_Fenerbahce_VS_Asvel_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Baskonia Basquet",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/blcr5d2wikgo/Euroliga_Alba_VS_Baskonia_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Monaco",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/lrblv2eij52m/Euroliga_Maccabi_VS_Monaco_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Milan",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/gq60buloz0ec/Euroliga_Estrella_Roja_VS_Milan_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Virtus VS Real Madrid",
+	        	"info": "[13/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4i0pqedusu8e/Euroliga_Virtus_VS_Real_Madrid_130325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS Panathinaikos",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6rk4ytfbglsd/Euroliga_Olympiakos_VS_Panathinaikos_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Partizan Belgrado",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/agti8w9sholb/Euroliga_FC_Barcelona_VS_Partizan_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Efes",
+	        	"info": "[14/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/f5l5wtfnkiuv/Euroliga_Bayern_VS_Efes_140325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed": "",
+			"online": "true",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 30",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "PSG VS Milan",
+	        	"info": "[18/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/5xlyq8q7y1ww/Euroliga_Paris_VS_Milan_180325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Lyon",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ssq8u0fboths/Euroliga_Real_Madrid_VS_Lyon_200325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS Estrella Roja",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/p4nbkp86oyae/Euroliga_Olympiacos_VS_Estrella_Roja_200325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Fenerbache",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/gfa9tvhsgq9w/Euroliga_Monaco_VS_Fenerbahce_200325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Virtus",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/jwm84a6i5dqd/Euroliga_Maccabi_VS_Virtus_200325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Bayern",
+	        	"info": "[20/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/a5qwblm4v2ms/Euroliga_Baskonia_VS_Bayern_200325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Partizan Belgrado VS Efes",
+	        	"info": "[21/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4177svfyavek/Euroliga_Partizan_VS_Efes_210325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Panathinaikos VS Alba Berlin",
+	        	"info": "[21/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/x8wifwcml5ep/Euroliga_Panathinaikos_VS_Alba_Berlin_210325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Zalguiris",
+	        	"info": "[21/03/25]",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ccuyhtpp996d/Euroliga_Barsa_VS_Zalguiris_210325.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 31",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Partizan Belgrado VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/9nkkzmbwibwr/Euroliga_Partizan_VS_Alba_Berlin_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monaco VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/sergk7ieckro/Euroliga_Monaco_VS_Zalguiris_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Paris Saint Germain",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/r5vwlrx8ykab/Euroliga_Fenerbahce_VS_Paris_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Olympiakos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ce9goms3826t/Euroliga_Asvel_VS_Olympiakos_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Milan",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/9nwxpmjcxkq4/Euroliga_Real_Madrid_VS_Milan_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Bayern Munich",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/yottiiuskyuz/Euroliga_Barsa_VS_Bayern_250325.mkv",
+	        	"info": "[25/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Efes VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/boyr025kg4s7/Euroliga_Efes_VS_Baskonia_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8nk0hiydvs6q/Euroliga_Estrella_Roja_VS_Virtus_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Panathinaikos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6s7ew1icl9fr/Euroliga_Maccabi_VS_Panathinaikos_260325.mkv",
+	        	"info": "[26/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 32",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Olympiakos VS Monaco",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4a40gi3ehq9g/Euroliga_Olympiakos_VS_Monaco_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/dhaacs07w1za/Euroliga_Milan_VS_Barsa_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Partizan Belgrado",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/7haxxi52v39q/Euroliga_Bayern_VS_Partizan_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Zalguiris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/v7hbx0im8qwy/Euroliga_Asvel_VS_Zalguiris_270325.mkv",
+	        	"info": "[27/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/aaywkdycqc7g/Euroliga_Estrella_Roja_VS_Real_Madrid_280325.mkv",
+	        	"info": "[28/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Fenerbache VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ozhcoo7ujmcp/Euroliga_Fenerbahce_VS_Baskonia_280325.mkv",
+	        	"info": "[28/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Panathinaikos VS Paris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/lbodgypk17m3/Euroliga_Panathinaikos_VS_Paris_280325.mkv",
+	        	"info": "[28/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "EFes VS Maccabi",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/6ckjui203tio/Euroliga_Efes_VS_Maccabi_280325.mkv",
+	        	"info": "[28/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba Berlin VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8rorux33ztf2/Euroliga_Alba_VS_Virtus_280325.mkv",
+	        	"info": "[28/03/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 33",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Fenerbache VS FC Barcelona",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/b7jojenx1hjd/Euroliga_Fenerbahce_VS_Barsa_020425.mkv",
+	        	"info": "[02/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Zalguiris VS Partizan Belgrado",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/a10spjr9hjzz/Euroliga_Zalguiris_VS_Partizan_030425.mkv",
+	        	"info": "[03/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Real Madrid VS Paris",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/x3d9z7z3qsbv/Euroliga_Real_Madrid_VS_Paris_030425.mkv",
+	        	"info": "[03/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Monoaco VS Panathinaikos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/wqozd7ew5q40/Euroliga_Monaco_VS_Panathinaikos_030425.mkv",
+	        	"info": "[03/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Maccabi VS Bayern",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/q0j42ssyaidi/Euroliga_Maccabi_VS_Bayern_030425.mkv",
+	        	"info": "[03/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Alba VS Olympiakos",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/16mpvj4zhstj/Euroliga_Alba_VS_Olympiacos_040425.mkv",
+	        	"info": "[04/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Virtus VS Milan",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/5tbc7o1lzv9i/Euroliga_Virtus_VS_Milan_040425.mkv",
+	        	"info": "[04/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Estrella Roja VS Efes",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/a7sdox7p6ldx/Euroliga_Estrella_Roja_VS_Efes_040425.mkv",
+	        	"info": "[04/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Baskonia VS Lyon",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/ac0bsd8kbd9g/Euroliga_Baskonia_VS_Lyon_040425.mkv",
+	        	"info": "[04/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+	},
+
+	{
+        "name": "JORNADA 34",
+        "image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        "info": "",
+        "stations":
+            [
+			{
+       			"name": "Paris Saint Germain VS Alba Berlin",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/t62lllm8z3ei/Euroliga_Paris_VS_Alba_Berlin_100425.mkv",
+	        	"info": "[10/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Olympiakos VS Maccabi",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/aq0gayiiqicy/Euroliga_Olympiacos_VS_Maccabi_100425.mkv",
+	        	"info": "[10/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Bayern Munich VS Fenerbache",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/4zagk8dzt1tb/Euroliga_Bayern_VS_Fenerbahce_100425.mkv",
+	        	"info": "[10/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Asvel VS Monaco",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/x22gwtnqszsq/Euroliga_Asvel_VS_Monaco_100425.mkv",
+	        	"info": "[10/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Partizan VS Real Madrid",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/l5wesyq5g5os/Euroliga_Partizan_VS_Real_Madrid_100425.mkv",
+	        	"info": "[10/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Panathinaikos VS Estrella Roja",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/njmqix4mi502/Euroliga_Panathinaikos_VS_Estrella_Roja_110425.mkv",
+	        	"info": "[11/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "Milan VS Baskonia",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/cpf5ilmpf5yz/Euroliga_Milan_VS_Baskonia_100425.mkv",
+	        	"info": "[11/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		},
+			{
+       			"name": "FC Barcelona VS Virtus",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/a4abajzakp3p/Euroliga_Barsa_VS_Virtus_110425.mkv",
+	        	"info": "[11/04/25]",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"online": "true",
+			"embed": "",
+        		"referer" : "",
+        		"isHost": "true"
+        		}
+		]
+		},
+
+ 		{
+        	"name": "PLAY IN",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+			"name": "Bayern Munich VS Estrella Roja",
+			"info": "[15/04/25][ROUND 1]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/c1yax4k7khvg/Euroliga_Play-in_Bayern_VS_Estrella_Roja_150425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Paris Saint Germain",
+	        	"info": "[15/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/w04o62c2bsc3/Euroliga_Play-in_Real_Madrid_VS_Paris_150425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Bayern Munich",
+	        	"info": "[18/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/mdcs66flvukv/Euroliga_Play-in_Real_Madrid_VS_Bayern_180425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
+		},
+
+ 		{
+        	"name": "PLAY OFF",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+			"name": "Fenerbache VS Paris",
+			"info": "[22/04/25][ROUND 1]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/9qg8e3l0va3b/Euroliga_Play-offs_1_Partido_Fenerbahce_VS_Paris_220425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Efes",
+	        	"info": "[22/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/uqv9if1a9ckh/Euroliga_Play-offs_1_Partido_Phanathinaikos_VS_Efes_220425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	         	"info": "[23/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xeoytwdv0xou/Euroliga_Play-offs_1_Partido_Monaco_VS_Barsa_230425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Olympiakos VS Real Madrid",
+	         	"info": "[23/04/25][ROUND 1]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/bgh5nl18q5o1/Euroliga_Play-offs_1_Partido_Olympiakos_VS_Real_Madrid_230425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos VS Efes",
+	         	"info": "[24/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/x2fheyov9e8b/Euroliga_Play-offs_2_Partido_Phanathinaikos_VS_Efes_240425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Fenerbache VS Paris",
+	         	"info": "[24/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/3943gmk9chmw/Euroliga_Fenerbahce_VS_Paris_240425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid VS Olympiakos",
+	         	"info": "[25/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/rvv6l0o5k66q/Euroliga_Real_Madrid_VS_Olympiakos_250425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	         	"info": "[25/04/25][ROUND 2]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/c2fjjohtit0m/Euroliga_Monaco_VS_Barsa_250425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid vs Olympiakos",
+	         	"info": "[29/04/25][ROUND 3]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/cwzebb4jiaas/Euroliga_Madrid_VS_Olympiacos_290425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Paris vs Fenerbache",
+	         	"info": "[29/04/25][ROUND 3]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/wv6065i3x2vx/Euroliga_Paris_VS_Fenerbahce_290425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Panathinaikos",
+	         	"info": "[30/04/25][ROUND 3]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/5bpr2wxzpfc9/Euroliga_Efes_VS_Panathinaikos_300425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona vs Monaco",
+	         	"info": "[30/04/25][ROUND 3]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/8hdohesm5ucb/Euroliga_Barsa_VS_Monaco_300425.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Real Madrid vs Olympiakos",
+	         	"info": "[01/05/25][ROUND 4]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/vxy3czn3vmju/Euroliga_Real_Madrid_VS_Olympiakos_010525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Efes VS Panathinaikos",
+	         	"info": "[02/05/25][ROUND 4]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/xcdplk0wv913/Euroliga_Efes_VS_Panathinaikos_020525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "FC Barcelona vs Monaco",
+	         	"info": "[02/05/25][ROUND 4]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/b0zukju1u9c4/Euroliga_Barsa_VS_Monaco_020525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Panathinaikos vs EFES",
+	         	"info": "[06/05/25][ROUND 5]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/rgwjm8qc0p23/Euroliga_Panathinaikos_VS_Efes_060525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Monaco VS FC Barcelona",
+	         	"info": "[06/05/25][ROUND 5]",
+			"online": "true",
+	        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+	        	"url": "https://filemoon.to/d/wyenl834ae2j/Euroliga_Monaco_VS_Barsa_060525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+		]
+		},
+
+ 		{
+        	"name": "FINAL FOUR",
+        	"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+        	"info": "",
+        	"stations":
+            	[
+			{
+			"name": "Fenerbache vs Panathinaikos",
+			"info": "[23/05/25][SEMIFINAL 1]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/was9pl0xui99/Euroliga_Semifinal_1_Fenerbahce_VS_Panathinaikos_230525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+			{
+			"name": "Oñympiakos vs Monaco",
+			"info": "[23/05/25][SEMIFINAL 2]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/ct8tz27ttvvi/Euroliga_Semifinal_2_Olympiakos_VS_Monaco_230525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+			{
+			"name": "Panathinaikos vs Olympiakos",
+			"info": "[25/05/25][CONSOLACION]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/mgjeo92klhku/Euroliga_3y4_puesto_Panathinaikos_vs_Olympiakos_250525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		},
+			{
+			"name": "Monaco vs Fenerbache",
+			"info": "[25/05/25][FINAL]",
+			"online": "true",
+			"image": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg",
+			"url": "https://filemoon.to/d/watuvl4k8v5e/Euroliga_Final_Monaco_VS_Fenerbahce_250525.mkv",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost": "true"
+        		}
+		]
+		}
+
+	]
+}

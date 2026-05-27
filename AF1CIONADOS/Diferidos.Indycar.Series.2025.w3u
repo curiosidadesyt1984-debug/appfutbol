@@ -1,0 +1,445 @@
+{
+"name": "Indycar Series 2025",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Indycar.Series.2025.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "R16 Nashville",
+        "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+        "info": "[31-08-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+                "url" :"https://pixeldrain.com/u/baV7edkD",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/VL2rrZnq/Nashville-2025.png",
+                "url" :"https://pixeldrain.com/u/j4SRUnyK",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R15 Milwaukee",
+        "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+        "info": "[24-08-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+                "url" :"https://pixeldrain.com/u/atirC8PL",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/YSKWVDSr/Milwaukee-2025.png",
+                "url" :"https://pixeldrain.com/u/HtoHjN6D",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R14 Portlan",
+        "image": "https://i.postimg.cc/BbzF4ypD/portlan.png",
+        "info": "[10-08-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/BbzF4ypD/portlan.png",
+                "url" :"https://pixeldrain.com/u/2B7EkQ3m",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/BbzF4ypD/portlan.png",
+                "url" :"https://pixeldrain.com/u/ThQn3LMA",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R13 Laguna Seca",
+        "image": "https://i.postimg.cc/rFJ6ZkhK/Laguna-Seca.png",
+        "info": "[27-07-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/rFJ6ZkhK/Laguna-Seca.png",
+                "url" :"https://pixeldrain.com/u/yKRYCgEZ",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                 {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/rFJ6ZkhK/Laguna-Seca.png",
+                "url" :"https://pixeldrain.com/u/Kd5Nzn3a",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R12 Streets of Toronto",
+        "image": "https://i.postimg.cc/50Mfzm7z/toronto.png",
+        "info": "[20-07-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/50Mfzm7z/toronto.png",
+                "url" :"https://pixeldrain.com/u/FV11BhAo",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/50Mfzm7z/toronto.png",
+                "url" :"https://pixeldrain.com/u/oGbJmPQu",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R11 Iowa Speedway",
+        "image": "https://i.postimg.cc/90VPsGDH/Iowa.png",
+        "info": "[12-07-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera 1",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/85kP3cTn/Iowa01.png",
+                "url" :"https://pixeldrain.com/u/s19HDCo5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera 1",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/85kP3cTn/Iowa01.png",
+                "url" :"https://pixeldrain.com/u/YmsKaKyA",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera 2",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/KzskDBt5/Iowa02.png",
+                "url" :"https://pixeldrain.com/u/RYyBhSFo",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera 2",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/KzskDBt5/Iowa02.png",
+                "url" :"https://pixeldrain.com/u/NWtxhMer",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+
+        {
+        "name": "R10 IndyCar Mid Ohio",
+        "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+        "info": "[06-07-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+                "url" :"https://pixeldrain.com/u/7RXiNAZo",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/k4kYnjZt/Mid-Ohio.png",
+                "url" :"https://pixeldrain.com/u/jBWu74re",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R09 IndyCar Road America",
+        "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+        "info": "[22-06-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+                "url" :"https://pixeldrain.com/u/ykfV3o8u",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9FPdvJby/indycar-road-america.png",
+                "url" :"https://pixeldrain.com/u/E1EBhHta",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R08 IndyCar iLLinois",
+        "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+        "info": "[15-06-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+                "url" :"https://pixeldrain.com/u/ET4wCNYL",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y2sCtTCS/indycar-illinois.png",
+                "url" :"https://pixeldrain.com/u/X3fP2Goy",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R07 IndyCar Detroit",
+        "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+        "info": "[01-06-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+                "url" :"https://pixeldrain.com/u/ZUpsoiAW",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/kGW2F93k/Detroit.png",
+                "url" :"https://filemoon.to/d/9rebegfhfyx5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R06 IndyCar Indianapolis 500",
+        "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+        "info": "[25-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+                "url" :"https://pixeldrain.com/u/Kdkt49Hm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/zfzWwx45/Indy500.png",
+                "url" :"https://pixeldrain.com/u/GA16rPQD",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R05 IndyCar Indy Road Course",
+        "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+        "info": "[10-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+                "url" :"https://pixeldrain.com/u/ojfggWDx",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/Y9K0yKh6/indycar-Road-Course.png",
+                "url" :"https://pixeldrain.com/u/sp2m8L6k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R04 IndyCar Grand Prix Alabama",
+        "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+        "info": "[04-05-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+                "url" :"https://pixeldrain.com/u/m2pk4Wzv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/FHjmYmmk/Hotfooting-to-Barber-Motorsports.png",
+                "url" :"https://pixeldrain.com/u/TkrgtLd3",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R03 IndyCar Acura Long Beach Grand Prix",
+        "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
+        "info": "[13-04-2025]",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
+                "url" :"https://pixeldrain.com/u/zB5qHvbV",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/4NZLRmrM/Long-Beach.png",
+                "url" :"https://pixeldrain.com/u/E2pVgvqv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+
+        {
+        "name": "R02 IndyCar The Thermal Club Grand Prix",
+        "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+                "url" :"https://pixeldrain.com/u/wGqbXqVB",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/9F7SsnKg/Indycar.png",
+                "url" :"https://pixeldrain.com/u/A89wXrWS",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "R01 IndyCar Grand Prix of St. Petersburg",
+        "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/CKxc61sq/St-Peterburgo.png",
+                "url" :"https://filemoon.to/d/vyvbbncr1jhn",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/CKxc61sq/St-Peterburgo.png",
+                "url" :"https://filemoon.to/d/htal4krnl61p",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

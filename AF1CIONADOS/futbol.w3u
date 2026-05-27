@@ -1,0 +1,52 @@
+{
+  "name": "FUTBOL AF1CIONADOS",
+  "author": "AF1CIONADOS",
+  "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+  "url": "https://af1c1onados.vercel.app/futbol.w3u",
+  "telegram": "Enlace_Af1cionados",
+  "info": "Solo Futbol",
+  "groups": [
+    {
+      "name": "CANALES TV (Zona Deportiva)",
+      "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+      "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+      "import": false
+    },
+    {
+      "name": "CANALES FUTBOL WEB",
+      "image": "https://i.postimg.cc/C58MjdLB/logonba-new.png",
+      "url": "https://af1c1onados.vercel.app/Canales.Futbol.Web.m3u",
+      "import": false
+    },
+    {
+      "name": "DIFERIDOS FUTBOL",
+      "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+      "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
+      "import": false
+    },
+    {
+      "name": "DOCUMENTALES FUTBOL",
+      "image": "https://i.postimg.cc/VNFc93y4/documental.png",
+      "url": "https://af1c1onados.vercel.app/04.1.0.Documentales.FooTball.w3u",
+      "import": false
+    },
+    {
+      "name": "EVENTOS DEL DIA",
+      "image": "https://i.postimg.cc/BnSB8xmq/PPV-new.png",
+      "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
+      "import": false
+    },
+    {
+      "name": "GUIA DEPORTIVA",
+      "image": "https://i.postimg.cc/k45KjbMs/AF1-w-Eb.png",
+      "url": "https://af1c1onados.vercel.app/Programacion.Deportiva.json",
+      "import": false
+    },
+    {
+      "name": "AF1 WEB",
+      "image": "https://i.postimg.cc/k45KjbMs/AF1-w-Eb.png",
+      "url": "https://af1c1onados.vercel.app/11.Sport.WeB.w3u",
+      "import": false
+    }
+  ]
+}

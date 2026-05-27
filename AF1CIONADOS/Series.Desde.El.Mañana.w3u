@@ -1,0 +1,85 @@
+{
+"name": "Desde el Mañana",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Desde.El.Mañana.w3u",
+"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/zbv8gys51u1i/Watch_Desde_manana_1x01__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/qvxj4tprz2ba/Watch_Desde_manana_1x02__1080__mp4_2.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/kxqlf15cj6c5/Watch_Desde_manana_1x03__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/izw9pvw2w08i",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"Latino",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/i1gpjyn4mklx/Watch_Desde_manana_1x05__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 06",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/ypg5m6vaa5i2/Watch_Desde_manana_1x06__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 07",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/e5fr8usjau7o/Watch_Desde_manana_1x07__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 08",
+ 				"info":"",
+ 				"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+ 				"url":"https://filemoon.sx/d/4nc0j7khd429/Watch_Desde_manana_1x08__1080__mp4.mp4",
+        		"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+
+]
+}

@@ -1,0 +1,20 @@
+{
+"name": "Robot Dreams",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Anime.Robot.Dreams.w3u",
+"image": "https://i.ibb.co/yfc0b1v/robotdreams.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "by. Falken",
+"stations":
+   [
+       {
+       "name": "Robot Dreams",
+       "info":"",
+       "image": "https://i.ibb.co/yfc0b1v/robotdreams.jpg",
+       "url": "https://filemoon.sx/d/9qlw66w5tqsl",
+       "userAgent":"PlusMediaPlayer/0.0.9",
+       "online": "true",
+       "isHost": "true"
+       }
+   ]
+}

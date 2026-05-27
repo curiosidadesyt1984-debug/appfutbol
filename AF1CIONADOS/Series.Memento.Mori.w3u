@@ -1,0 +1,80 @@
+{
+"name": "Memento Mori",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Series.Memento.Mori.w3u",
+"image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/ngvas9iejkpz/Ver_S01E01_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/y1417hdw7bmx/Ver_S01E02_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/clfg7l4awslq/Ver_S01E03_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 4",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/azbjqg3zf7ai/Ver_S01E04_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 5",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/c1ey8e14tqfs/Ver_S01E05_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 6",
+          "image": "https://pics.filmaffinity.com/memento_mori-657047175-large.jpg",
+          "url": "https://filemoon.sx/d/flquaodwk3ub/Ver_S01E06_1080p_Castellian_mp4.mp4",
+          "info": "[Español 2023]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+]
+}
+
+
+

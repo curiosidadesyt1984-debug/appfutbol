@@ -1,0 +1,51 @@
+{
+"name": "Querer",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Querer.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
+ 		"url":"https://filemoon.sx/d/4w0d97x058dx/Querer_1x01_Querer_1080p_MVPLUS_WEB_DL_DDP5_1_Atmos_H_264_Bryan.mkv",
+		"embed": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+ 		{
+ 		"name": "Episodio 02",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
+ 		"url":"https://filemoon.sx/d/kofoktdu1e2d",
+		"embed": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+ 		{
+ 		"name": "Episodio 03",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
+ 		"url":"https://filemoon.sx/d/8bbmnsz8f12g",
+		"embed": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+ 		{
+ 		"name": "Episodio 04",
+ 		"info":"",
+ 		"image":"https://es.web.img2.acsta.net/img/5b/9c/5b9c1458a186fb93f1082f0f7c71d354.jpg",
+ 		"url":"https://filemoon.sx/d/as0c3l2c5vbz/Querer.1x04.mp4",
+		"embed": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+ 		"isHost":"true",
+ 		"online":"true"
+		}
+	]
+}

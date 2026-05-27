@@ -1,0 +1,25 @@
+{
+"name": "NFL",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/03.6.1.Diferidos.Menu.NFL.w3u",
+"telegram": "Enlace_Af1cionados",
+"info":"",
+"groups":
+    [
+          {
+          "name": "NFL 2023",
+          "image": "https://i.postimg.cc/XvbL4F4G/NFL-2023-new.png",
+          "url": "https://af1c1onados.vercel.app/03.6.2.Diferidos.NFL.2023.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "NFL 2024",
+          "image": "https://i.postimg.cc/wjShLg36/Nfl-2024-new.png",
+          "url": "https://af1c1onados.vercel.app/Diferidos.NFL.2024.w3u",
+          "info":"",
+          "import": false
+          }
+     ]
+}

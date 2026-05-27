@@ -1,0 +1,92 @@
+{
+"name": "El Problema De Los 3 Cuerpos",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+ 				"url":"https://donaldlineelse.com/9wrqsy413xb1",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/09kducvdcdha",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/f133dp3btxxo",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/kg6zi3u862az",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/lbo1uhfk0kco",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/jvfcqfraj75a",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/vbkw3cratsk9",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+				"url":"https://donaldlineelse.com/lae5kuhs5btj",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

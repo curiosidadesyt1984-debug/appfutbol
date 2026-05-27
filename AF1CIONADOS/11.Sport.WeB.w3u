@@ -1,0 +1,27 @@
+{
+"name": "ᗩᖴ1 wᗴB",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/11.Sport.WeB.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"stations":
+    [
+        {
+        "name": "AF1ACEX WEB",
+        "info":"",
+        "online": "true",
+        "image": "https://i.postimg.cc/gJ1B9hT4/logo10-25-231318.png",
+        "url": "https://af1-acex-web.vercel.app/",
+        "embed": "true"
+        },
+        {
+        "name": "AF1ACEX SERVERX",
+        "info":"",
+        "online": "true",
+        "image": "https://i.postimg.cc/3xwZXPvc/logo2-7-15161.pngg",
+        "url": "https://rb.gy/oxo606",
+        "embed": "true"
+        }
+    ]
+}

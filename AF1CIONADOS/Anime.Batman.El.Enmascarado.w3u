@@ -1,0 +1,110 @@
+{
+"name": "Batman El Enmascarado",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Anime.Batman.El.Enmascarado.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 1",
+        "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/7o8nyix6iura#",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 02",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/efdeotqhky97",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 03",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/onkf3mptokxq",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 04",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/godsrhlcirqd",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 05",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/9w3rlsulewte",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 06",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/erb6rmoi40r1",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 07",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/1sfdrsa2iz3j",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 08",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/1ni1xg17yzk8",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 09",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/zmg4pb1c61y7",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                },
+                {
+                "name": "Episodio 10",
+                "info":"[Español][2024]",
+                "image": "https://pics.filmaffinity.com/batman_caped_crusader-390585213-large.jpg",
+                "url": "https://filemoon.sx/d/4cnckhtxmroi",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "online": "true",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

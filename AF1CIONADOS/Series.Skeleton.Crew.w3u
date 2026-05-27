@@ -1,0 +1,92 @@
+{
+"name": "Skeleton Crew",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Skeleton.Crew.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Episodio 01",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/hm6z1gosyll9",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 02",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/dhbdzhtdujk8",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 03",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/u606375q3u49",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 04",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/up7tg0m45len",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 05",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/sb5lsrrj3jih",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 06",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/5q0zi66gi021",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 07",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/9taa1k54t3ev",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Episodio 08",
+                "info":"[MultiAudio]",
+                "image": "https://i.postimg.cc/76GXnyvJ/Skeleton-Crew.jpg",
+                "url":"https://filemoon.to/d/fevr6utb5yia",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

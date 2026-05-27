@@ -1,0 +1,56 @@
+{
+"name": "Echo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Echo.w3u",
+"image": "https://pics.filmaffinity.com/echo-145714260-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/echo-145714260-large.jpg",
+ 				"url":"https://filemoon.sx/d/dtg7ljmi1yer/Echo.1x01.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 02",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/echo-145714260-large.jpg",
+ 				"url":"https://filemoon.sx/d/fqzrkzgdimcm/Echo.1x02.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/echo-145714260-large.jpg",
+ 				"url":"https://filemoon.sx/d/9fxxp5flfssf/Echo.1x03.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 04",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/echo-145714260-large.jpg",
+ 				"url":"https://filemoon.sx/d/m5hxedxu13xf/Echo.1x04.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+ 				{
+ 				"name": "Episodio 05",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/echo-145714260-large.jpg",
+ 				"url":"https://filemoon.sx/d/22p2b1w7pusw/Echo.1x05.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				}
+]
+}

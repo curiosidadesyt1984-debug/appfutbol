@@ -1,0 +1,928 @@
+{
+"name": "WRC 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Diferidos.WRC.2024.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups": 
+    [
+        {
+        "name": "WRC: R04 Rally Portugal 2024",
+        "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/fv76mcl2p0yi",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/bj3gpq7z9aa7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/mswbfflityih",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/xl5qgf4rm7i6",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/x0vyksybkr01",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/bylamw2qrxan",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/rbvdomhoom3j",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/ipqojasjxumb",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/h48kek6bzvay",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/cu0dovp76xd7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/1des3vrg0vtu",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/h28rho08ikbd",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/cesg2wflytqe",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/3mqlsv6ntiva",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/bf09b6y3xdtc",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/vs2sbu6b3p8t",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/lqtkqmmc0v7p",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/t71p4dqtsdvg",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 19",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/2gmm978a4o88",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 20",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/y22ve1d9rwd9",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 21",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/2o3l6ki7galy",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 22",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/PrmKyQfF/portugal.png",
+                "url": "https://filemoon.sx/d/07a8wcplb7ep",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "WRC: R04 Rally Croacia 2024",
+        "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/bxsn54f8q71v",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/1xd7ggmzvnrr",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/xl1uoou93v7g",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/5v2gfaj5uyh9",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/kg2wttqkzje6",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/dcxyswo9ugh7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/0wgthr3lvmiq",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/z9nvon7d558a",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/9p8obdt8sp8b",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/2waufq56odud",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/xebffknltyv7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/i3yp82fjlcp5",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/enpg70j5hd9n",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/94l11ksqr1ql",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/kj96zeh5m8mt",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/9zzvdcsvsdz1",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/71msm68twjnh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/wgwv6cad4c6r",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 19",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/hogjrimiaj27",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 20",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/7Ln8Bj1N/Rally-Croacia-2024.png",
+                "url": "https://filemoon.sx/d/b9yqfk0jjgtm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "WRC: R03 Rally Kenya 2024",
+        "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qA3WOmGem8gxKkz",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/njJYOd3mXWQEe9o",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/dNjgOl4e3MkO9Wn",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/7QWN5eyPNRk59oR",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/nyg9EKDv08nObk4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/MAlwEMY6r0WEJ39",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qM1VOPNpP0Jxo4k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/eL2157d3zNmxrw4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/PlBVEZ0WR9G5Dv9",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/njJYOd3m2a8Ee9o",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/vQBYEbNr2a4En1m",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/m7WJxgJM2Vr5Bze",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/KNWlEDNRzwK5kbp",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qL0YEyPD0ypxDRX",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/nyg9EKDv1QoObk4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/k3gG5q370ejE1N2",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qL0YEyPD0KQxDRX",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/qM1VOPNpPWGxo4k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 19",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/L67TLbT5/wrc-kenya-2024.png",
+                "url": "https://bembed.net/v/eL2157d3zDRxrw4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "WRC: R02 Rally Suecia 2024",
+        "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 00",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/ao9rxoRBNr95yGe",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 01",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/qM1VOPNeqwnxo4k",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 01_2",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/KrdZ5kdMpXaxmX4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/04rQxWWLnKzxb2N",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/7QWN5eyZkQK59oR",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/4bQVOj73ngw5wKm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/KNWlEDNLp1R5kbp",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/g9Vd5JWywPpxqQj",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/0DogOGMWR3GxKjM",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/njJYOd3dnLnEe9o",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/P0poO10BXLLEz17",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/NMRLEprzQo45XaG",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/l4vexvDgpzyO8B9",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/8ozgENLD8B65mjA",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/qA3WOmGM1a2xKkz",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/8ozgENLD8W75mjA",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/qL0YEyPz8BQxDRX",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/YWA8E9welAb5GmM",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/l4vexvDgwRAO8B9",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 18",
+                "info": " [Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/MKGkBSj0/sweden2024.png",
+                "url": "https://embedv.net/v/g9Vd5JWyopgxqQj",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "WRC: R01 Rally MonteCarlo 2024",
+        "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+        "stations": 
+            [
+                {
+                "name": "Stage 01",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/qt1a07g69oh2",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 02",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/0q2b2t1664q4",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 03",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/elloai23guf8",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 04",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/m81wvo0jsuhh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 05",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/13xlzg3lodjp",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 06",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/gltfm431ooeh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 07",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/hgfe91remk2n",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 08",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/v9qepwd8y3pp",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 09",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/bps3im3tncda",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 10",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/dq5gswfs7oik",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 11",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/lghahj3lh0ub",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 12",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/nm87xl0bn6aq",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 13",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/7skft0xdppvk",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 14",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/l6ae37mi92p7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 15",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/q9q3k744ii3p",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 16",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/4dwqgnh90fv3",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Stage 17 Final",
+                "info": " [Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/c4DSkHN5/montecarlo2024.png",
+                "url": "https://filemoon.sx/d/ambw6ka8palf",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

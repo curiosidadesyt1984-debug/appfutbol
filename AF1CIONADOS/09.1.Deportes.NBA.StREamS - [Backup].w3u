@@ -1,0 +1,142 @@
+{
+"name": "NBA StREamS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/09.1.Deportes.NBA.StREamS.w3u",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"stations":
+    [
+        {
+        "name": "NBA",
+        "info":"Canal 01",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_1/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 02",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_2/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 03",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_3/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 04",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_4/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "referer" : "",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 05",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_5/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 06",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_6/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 07",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_7/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 08",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_8/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 09",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_9/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 10",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_10/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 11",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_11/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 12",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_12/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        },
+        {
+        "name": "NBA",
+        "info":"Canal 13",
+        "image": "https://i.postimg.cc/yN6FvCRY/NBA.png",
+        "url": "https://fl30.moveonjoy.com/NBA_13/index.m3u8",
+        "userAgent" : "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "embed": "",
+        "isHost": ""
+        }
+    ]
+}

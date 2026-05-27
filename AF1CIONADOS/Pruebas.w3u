@@ -1,0 +1,49 @@
+{
+"name": "Pruebas",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Pruebas.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+        {
+        "name": "Prueba 001",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://embed.sdfgnksbounce.com/embed2/directvsports.html",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "origin": "https://andrenalynrushplay.cfd/",
+        "referer" : "https://andrenalynrushplay.cfd/",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+        "name": "Prueba 02",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://bigwarp.cc/uxuvbtexiwn1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "embed": "",
+        "isHost":"true"
+        },
+        {
+		"name": "Prueba 03",
+		"info":"",
+        "online":"true",
+		"image": "",
+		"url": "acestream://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4"
+        },
+        {
+        "name": "TyC Sports",
+        "info": "",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfJwHcUZK-6338mtQ-ggMRMFOwlBbAyfk4eANq8zZqtT5B-E9zXsyeBEVWWx2PjbfbyBR-zuLgCDLp1YEzhIfcoVZk72yOtRl_4PLCOZBaVQPW1g40ZCFj6kBYrRqyxZpVOpylLUufKf8hVT0YqmxxNHp2dd_17Gqtp_aXBgq9uv-ExVyVHMTMJ1xWEX7T/w590-h123/logo-TyC.png",
+        "url": "https://topembed.pw/channel/SkySportsNews[UK]",
+        "embed": "true",
+        "isHost": ""
+        }
+    ]
+}

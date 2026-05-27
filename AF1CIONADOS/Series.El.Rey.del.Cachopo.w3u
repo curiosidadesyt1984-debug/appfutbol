@@ -1,0 +1,38 @@
+{
+"name": "El Rey Del Cachopo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.El.Rey.del.Cachopo.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Episodio 01",
+		"info":"",
+		"image":"https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
+		"url":"https://vtube.network/6usaa5aeqm73.html",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
+		"url":"https://vtube.network/z293nd02va3k.html",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://static.filmvandaag.nl/shows/original/13000/13642.jpg",
+		"url":"https://vtube.network/sxor1n32w94u.html",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}

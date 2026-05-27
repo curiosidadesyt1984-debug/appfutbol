@@ -1,0 +1,74 @@
+{
+"name": "Fidelidad",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Fidelidad.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/JhjgJGQY/fide.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+ 				"url":"https://heatherwholeinvolve.com/4ugynwrjwnpk",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://heatherwholeinvolve.com/sqdlstvmewee",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://heatherwholeinvolve.com/4d6jmdqigidl",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://heatherwholeinvolve.com/hkfqfyxtpit8",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://heatherwholeinvolve.com/kgnoabukhsk5",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/cJBAGO5zWpU9zpfeAEeH1Xn4R9U.jpg",
+				"url":"https://heatherwholeinvolve.com/svkewnuzgrqa",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

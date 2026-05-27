@@ -1,0 +1,75 @@
+{
+"name": "TWD Dead City",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.TWD.Dead.City.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/HsqX2cG7/The-Walking-Dead-Dead-City.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+ 				"url":"https://richardsignfish.com/fymktp4ufcv0",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+				"url":"https://richardsignfish.com/ueof3kkmzcal",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+				"online":"true"
+				},
+				{
+ 				"name": "Episodio 03",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+ 				"url":"https://richardsignfish.com/8km5cuxeqhyr",
+ 				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+				"url":"https://richardsignfish.com/vipw3jecvywp",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+				"online":"true"
+				},
+				{
+ 				"name": "Episodio 05",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+ 				"url":"https://richardsignfish.com/onmhj1636lhn",
+ 				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",
+				"image":"https://i.postimg.cc/QtGQdFm3/The-Walking-Dead-Dead.jpg",
+				"url":"https://richardsignfish.com/g6yrdnlybxjj",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}
+				

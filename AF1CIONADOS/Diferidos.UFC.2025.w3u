@@ -1,0 +1,950 @@
+{
+"name": "UFC: 2025",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.UFC.2025.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+         "name": "UFC Fight Night: Garcia vs Onama",
+         "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Garcia vs Onama",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+                "url":"https://pixeldrain.com/u/QcoXaR3f",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Garcia vs Onama",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/qRfH7wwh/Garcia-vs-Onama.png",
+                "url":"https://pixeldrain.com/u/YhkW8qKx",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 321: Aspinall vs Gane",
+         "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 321: Aspinall vs Gane",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/Wn9bzkLR",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 321: Aspinall vs Gane",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/p6oekwX4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }            
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Ridder vs Allen",
+         "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ridder vs Allen",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+                "url":"https://pixeldrain.com/u/cHPP39Ei",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Ridder vs Allen",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/hv3d1mC1/Ridder-vs-Allen.png",
+                "url":"https://pixeldrain.com/u/eHq4L3Wy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Oliveira vs Gamrot",
+         "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Oliveira vs Gamrot",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+                "url":"https://pixeldrain.com/u/YKNU7gWM",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Oliveira vs Gamrot",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tghFGYgL/Oliveira-vs-Gamrot.png",
+                "url":"https://pixeldrain.com/u/ZrBAFZtc",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 320: Ankalaev vs Pereira 2",
+         "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 320: Ankalaev vs Pereira 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/M8XqWc32",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 320: Ankalaev vs Pereira 2",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/rmKfZT4F/UFC-320.png",
+                "url":"https://pixeldrain.com/u/uT91mZWM",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }            
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Ulberg vs Reyes",
+         "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Ulberg vs Reyes",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+                "url":"https://pixeldrain.com/u/uHtNarF4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Ulberg vs Reyes",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/xd7SXRFB/Ulberg-vs-Reyes.png",
+                "url":"https://pixeldrain.com/u/JeRdeFVH",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Lopes Vs Silva",
+         "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Lopes Vs Silva",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+                "url":"https://pixeldrain.com/u/frPdzDTb",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Lopes Vs Silva",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3JHfvXZ7/UFC2.png",
+                "url":"https://pixeldrain.com/u/7Agh33ZJ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Imavov vs Borralho",
+         "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Imavov vs Borralho",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+                "url":"https://pixeldrain.com/u/h3Dyvkvz",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Imavov vs Borralho",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/BQWkC94r/UFCC.png",
+                "url":"https://pixeldrain.com/u/mgsY11QK",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 317: Topuria vs Oliveira",
+         "image": "https://i.postimg.cc/15t9J5Mh/UFC-317.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 317: Topuria vs Oliveira",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/15t9J5Mh/UFC-317.png",
+                "url":"https://pixeldrain.com/u/AKgt683U",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Night Hill vs Rountree Jr",
+         "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Night Hill vs Rountree Jr",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
+                "url":"https://pixeldrain.com/u/hqGmxREh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Night Hill vs Rountree Jr",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/9QRWDNk7/UFC.png",
+                "url":"https://pixeldrain.com/u/MKaMzoBa",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Usman vs Buckley",
+         "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Usman vs Buckley",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
+                "url":"https://pixeldrain.com/u/KETReste",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Usman vs BuckleY",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/kgnfX6C8/UFC.png",
+                "url":"https://pd.1drv.eu.org/LKkdemDa",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 316: Dvalishvili vs O'Malley 2",
+         "image": "https://i.postimg.cc/zDK7nW77/UFC-316.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 316: Dvalishvili vs O'Malley 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/zDK7nW77/UFC-316.png",
+                "url":"https://pixeldrain.com/u/FPMRAYbm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 316: Dvalishvili vs O'Malley 2",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/zDK7nW77/UFC-316.png",
+                "url":"https://pixeldrain.com/u/qEvtKesB",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Blanchfield vs Barber",
+         "image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100184260/16x9/1280x720_20250514035244.jpg",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Blanchfield vs Barber",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100184260/16x9/1280x720_20250514035244.jpg",
+                "url":"https://pixeldrain.com/u/gYPw2U4y",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Blanchfield vs Barber",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100184260/16x9/1280x720_20250514035244.jpg",
+                "url":"https://pixeldrain.com/u/X3gB4kH2",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Burns vs Morales",
+         "image": "https://i.postimg.cc/Pr6hDdpr/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Burns vs Morales",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Pr6hDdpr/UFC.png",
+                "url":"https://pixeldrain.com/u/NCwLSvRQ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Burns vs Morales",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/Pr6hDdpr/UFC.png",
+                "url":"https://pixeldrain.com/u/UdAxQShy",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 315: Muhammad vs Della Maddalena",
+         "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 315: Muhammad vs Della Maddalena",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
+                "url":"https://pixeldrain.com/u/rWbMirGk",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 315: Muhammad vs Della Maddalena",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/L4zHCdjp/UFC-315.png",
+                "url":"https://pixeldrain.com/u/hCJKhbyM",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Sandhagen vs Figueiredo",
+         "image": "https://i.postimg.cc/LXYwYKZZ/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Sandhagen vs Figueiredo",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/LXYwYKZZ/UFC.png",
+                "url":"https://pixeldrain.com/u/y6PHHAGp",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Sandhagen vs Figueiredo",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/LXYwYKZZ/UFC.png",
+                "url":"https://pixeldrain.com/u/sqkhKVBY",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Garry vs Prates",
+         "image": "https://i.postimg.cc/3wcVrs5s/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Garry vs Prates",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3wcVrs5s/UFC.png",
+                "url":"https://pixeldrain.com/u/tKq2gZfQ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Garry vs Prates",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/3wcVrs5s/UFC.png",
+                "url":"https://pixeldrain.com/u/o8btRCY9",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 314: Volkanovski vs Lopes",
+         "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 314: Volkanovski vs Lopes",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
+                "url":"https://pixeldrain.com/u/HdsjmRLJ",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 314: Volkanovski vs Lopes",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/cJNQRN6K/Rectangular-Final.png",
+                "url":"https://pixeldrain.com/u/8AVxEZei",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Emmett vs Murphy",
+         "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Emmett vs Murphy",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
+                "url":"https://pixeldrain.com/u/hyCKGrZj",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Emmett vs Murphy",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/q7bLQxPd/UFC.png",
+                "url":"https://pixeldrain.com/u/imRNVEi4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Moreno vs Erceg",
+         "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Moreno vs Erceg",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+                "url":"https://pixeldrain.com/u/AUkWja7H",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Moreno vs Erceg",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/XNwtVnNm/UFC-Fight-Night-Moreno-vs-Erceg.png",
+                "url":"https://pixeldrain.com/u/tLZXWGsB",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Edwards vs Brady",
+         "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Edwards vs Brady",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+                "url":"https://pixeldrain.com/u/UN6LYhYA",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Edwards vs Brady",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/tJPKdvHc/Edwards-vs-Brady.png",
+                "url":"https://pixeldrain.com/u/B6wqbp9x",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Vettori vs Dolidze 2",
+         "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Vettori vs Dolidze 2",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+                "url":"https://pixeldrain.com/u/2fhJ4TdP",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC Fight Night: Vettori vs Dolidze 2",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/K80CmCkf/ufc.png",
+                "url":"https://pixeldrain.com/u/5xMEscr3",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC 313: Pereira vs Ankalaev",
+         "image": "https://i.postimg.cc/gkcPQYwF/ufc313.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 313: Pereira vs Ankalaev",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/gkcPQYwF/ufc313.png",
+                "url":"https://pixeldrain.com/u/EiPLZopg",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                },
+                {
+                "name": "UFC 313: Pereira vs Ankalaev",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/gkcPQYwF/ufc313.png",
+                "url":"https://pixeldrain.com/u/kxzQxZNt",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true"
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Kape Vs Almabayev",
+         "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Kape Vs Almabayev",
+                "info":"[Latino]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+                "url":"https://filemoon.to/d/ymbrlf5kv2yh",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Kape Vs Almabayev",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/FK3wcdzj/ufc.png",
+                "url":"https://filemoon.to/d/gdjrv7roabhe",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Cejudo Vs Song",
+         "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Cejudo Vs Song",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",
+                "url":"https://filemoon.to/d/9uz5bpbf59uc",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cejudo Vs Song",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",
+                "url":"https://filemoon.to/d/19imutrkx8ms",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cejudo Vs Song",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/ht7yYL5r/Cejudo-Vs-Song.png",
+                "url":"https://filemoon.to/d/1a8ylrgjwuni",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+         "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/1ammswo274sq",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/0edyla6phttw",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Cannonier Vs Rodrigues",
+                "info":"[Español]",
+                "online":"true",
+                "image": "https://i.postimg.cc/VvQm1wL9/ufc.png",
+                "url":"https://filemoon.to/d/msv1lg9g7wzr",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC 312: Du Plessis Vs Strickland",
+         "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"https://listeamed.net/v/kKJVORKkbRp53XD",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"https://listeamed.net/v/4bQVOjJRr19OwKm",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[español][Parte 01]",
+                "online":"",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 312: Du Plessis Vs Strickland",
+                "info":"[español][Parte 02]",
+                "online":"",
+                "image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Adesanya vs Imavov",
+         "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/u2cneimrwljw",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/tv9br1zns4c5",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/ewyx98xs1jkl",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Adesanya vs Imavov",
+                "info":"[Español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+                "url":"https://filemoon.to/d/7s89rs84sk3m",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC 311: Makhachev Vs Moicano",
+         "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[Latino][Preliminares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/vgamg1jri8ia",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[Latino][Estelares]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/tf3njc79rd3k",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/ltaxg07eftq4",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC 311: Makhachev Vs Moicano",
+                "info":"[español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/bJmhMNPp/UFC-311.png",
+                "url":"https://filemoon.to/d/utnstphal7hj",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        },
+        {
+         "name": "UFC Fight Night: Dern vs Ribas II",
+         "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Latino][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://ryderjet.com/file/azw7844dznjv",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Latino][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://ryderjet.com/file/ovr5gbi9u8tf",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Español][Parte 01]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                },
+                {
+                "name": "UFC Fight Night: Dern vs Ribas II",
+                "info":"[Español][Parte 02]",
+                "online":"true",
+                "image": "https://i.postimg.cc/wv8wMk8R/Dern-vs-Ribas-2.png",
+                "url":"https://filemoon.to/d/6o60gfa01kw8",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "referer" : "",
+                "embed": ""
+                }
+            ]
+        }
+    ]
+}

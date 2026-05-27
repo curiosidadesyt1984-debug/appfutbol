@@ -1,0 +1,92 @@
+{
+"name": "Hotel Cocaine",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Hotel.Cocaine.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Temporada 01",
+        "info":"",
+        "image": "https://i.postimg.cc/tJyX5kCD/hotel-coca.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Capitulo 01",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/3qimtrsk8uy9",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 02",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/uizk0rtwasqs",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 03",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/nsg7ws5ggmfw",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 04",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/5jqf09viqnik",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 05",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/5gpirxkqwxyt",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+				{
+                "name": "Capitulo 06",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/wavpfmue5hzv",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 07",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/y9y3wvgu4yih",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                },
+                {
+                "name": "Capitulo 08",
+                "info":"[Español]",
+                "image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+                "url":"https://maxfinishseveral.com/cbcpzw41unn9",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost": "true",
+                "online":"true"
+                }
+			]
+        }
+	]
+}

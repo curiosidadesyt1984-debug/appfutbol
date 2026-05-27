@@ -1,0 +1,47 @@
+{
+"name": "Tv Shows Mix",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Tv.Shows.Mix.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "Ricky Gervais: Armageddon",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/Ricky_Gervais_Armageddon-258828694-large.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Ricky Gervais: Armageddon",
+                "info":"",
+                "image": "https://pics.filmaffinity.com/Ricky_Gervais_Armageddon-258828694-large.jpg",
+                "url":"https://filemoon.sx/d/697aev386mc3",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "Ali Wong: Single Lady",
+        "info":"",
+        "image": "https://pics.filmaffinity.com/Ali_Wong_Single_Lady-671732828-mmed.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Ali Wong: Single Lady",
+                "info":"",
+                "image": "https://pics.filmaffinity.com/Ali_Wong_Single_Lady-671732828-mmed.jpg",
+                "url":"https://filemoon.sx/d/8ia9r6ztmcfw",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }
+	]
+}

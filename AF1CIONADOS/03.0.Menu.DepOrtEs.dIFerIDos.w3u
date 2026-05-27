@@ -1,0 +1,89 @@
+{
+"name": "DepOrtEs dIFerIDos",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
+"telegram": "Enlace_Af1cionados",
+"info":"",
+"groups":
+    [
+
+        {
+         "name": "Formula 1",
+         "image": "https://i.postimg.cc/02TY0f4r/logo-F1.png",
+         "url": "https://af1c1onados.vercel.app/03.1.1.Diferidos.Menu.Formula.1.w3u",
+         "info":"bY Yisus",
+         "import": false
+        },
+        {
+         "name": "Formula E",
+         "image": "https://i.postimg.cc/VLY79gtt/formula-e-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.ForMUlA.E.w3u",
+         "info":"bY Yisus",
+         "import": false
+        },
+        {
+         "name": "IndyCar",
+         "image": "https://i.postimg.cc/1z8XQRkj/Indycar-Series-new.png",
+         "url": "https://af1c1onados.vercel.app/03.4.1.Diferidos.Menu.Indycar.w3u",
+         "info":"bY Yisus",
+         "import": false
+        },
+        {
+        "name": "MotoGP",
+        "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
+	    "url": "https://af1c1onados.vercel.app/03.2.1.Diferidos.Menu.MotoGP.w3u",
+        "info": "bY Af1cionados",
+        "import": false
+	    },
+        {
+         "name": "SuperBike",
+         "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
+         "url": "https://af1c1onados.vercel.app/03.3.1.Diferidos.Menu.SuperBike.w3u",
+         "info": "bY Af1cionados",
+         "import": false
+        },
+        {
+         "name": "Basket Europeo",
+         "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
+         "url": "https://af1c1onados.vercel.app/03.5.1.Diferidos.Menu.Basket.Europeo.w3u",
+         "info":"bY Ronki",
+         "import": false
+        },
+        {
+         "name": "Futbol",
+         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
+         "info": "bY Af1cionados",
+         "import": false
+        },
+        {
+         "name": "UFC Sport",
+         "image": "https://i.postimg.cc/xTNXj2BR/logo1-24-1311.png",
+         "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
+         "info":"bY Yisus",
+         "import": false
+        },
+		{
+         "name": "MmA Sport",
+         "image": "https://i.postimg.cc/yx5Tht5n/logo1-24-103119.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.MmA.w3u",
+         "info":"bY Tintxi",
+         "import": false
+        },
+		{
+         "name": "Boxing Sport",
+         "image": "https://i.postimg.cc/hGjqh7Lc/logo1-24-10112.png",
+         "url": "https://af1c1onados.vercel.app/DiFeriDos.BoXing.w3u",
+         "info":"bY Tintxi",
+         "import": false
+        },
+		{
+         "name": "Dakar Rally",
+         "image": "https://i.postimg.cc/bNB4c81Q/dakar-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.DakAr.Rally.w3u",
+         "info":"bY Ronki",
+         "import": false
+        }
+    ]
+}

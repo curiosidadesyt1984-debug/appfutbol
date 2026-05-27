@@ -1,0 +1,74 @@
+{
+"name": "Yo Adicto",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Yo.Adicto.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+ 				"url":"https://filemoon.to/d/h7djull24jly",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.to/d/kj9rg57u5vr3",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.to/d/co681cqblsbd",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.to/d/13iugx5inm34",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.to/d/bj9hp98x2kjq",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Yo_adicto_Miniserie_de_TV-763129025-large.jpg",
+				"url":"https://filemoon.to/d/fa8f3344dn8q",
+				"userAgent" : "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

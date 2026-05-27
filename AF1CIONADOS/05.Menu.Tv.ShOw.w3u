@@ -1,0 +1,67 @@
+{
+"name": "Tv Shows",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/05.Menu.Tv.ShOw.w3u",
+"telegram": "Enlace_Af1cionados",
+"info":"",
+"groups":
+    [
+        {
+         "name": "Rakuten TV 🇪🇸",
+         "image": "https://i.postimg.cc/rFhzPjCx/Rakuten-Tv-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.Rakuten.Tv.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Canela TV",
+         "image": "https://i.postimg.cc/63dF8H5P/Canela-Tv-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.CanelaTV.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Runtime TV",
+         "image": "https://i.postimg.cc/fbwhxn1N/Runtime-TV-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.RuntimeTV.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "PlutoTV 🇪🇸",
+         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.Pluto.TV.ES.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "PlutoTV 🇲🇽",
+         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
+         "url": "https://af1c1onados.vercel.app/TV.FREE.PlutoTV.MX.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+        "name": "丅 ᗪ 丅",
+        "image": "https://i.postimg.cc/W317y4K7/TDT.png",
+        "url": "https://pastebin.com/UWXsWLF9",
+        "info":"",
+        "import": false
+        },
+		{
+         "name": "Conciertos Mix",
+         "image": "https://i.postimg.cc/wxkXY1wW/Conciertos-new.png",
+         "url": "https://af1c1onados.vercel.app/Tv.Shows.Conciertos.Mix.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Tv Shows Mix",
+         "image": "https://i.postimg.cc/B6j2ZjmN/tv-show-new.png",
+         "url": "https://af1c1onados.vercel.app/Tv.Shows.Mix.w3u",
+         "info":"",
+         "import": false
+        }		
+    ]
+}

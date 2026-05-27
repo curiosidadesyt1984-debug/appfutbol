@@ -1,0 +1,59 @@
+{
+"name": "Marbella",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Marbella.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Episodio 01",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/7cajlqtyuy9x",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/atxexagg4d32",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/20hjwdbyv3wl",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/gcvd8oqacshl",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/oa9y8jh2lukf",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://pics.filmaffinity.com/Marbella_Serie_de_TV-723511755-large.jpg",
+		"url":"https://filemoon.sx/d/emswwfn4bjpw",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}

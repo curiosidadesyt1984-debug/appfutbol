@@ -1,0 +1,109 @@
+
+{
+"name": "MATRIX",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/saga.MATRIX.w3u",
+"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+"telegram": "@yIsus_mEx",
+"info": "by YIsus_mEx",
+"groups":
+[
+	{
+	"name": "ESPAÑOL",
+        "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+	"stations":
+	[
+        {
+        "name": "Matrix",
+        "info":"[Español][1999]",
+        "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+        "url":"https://listeamed.net/v/vQBYEbBQ0pwEn1m",
+        "isHost": "true",
+        "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Reloaded",
+        "info":"[Español][2003]",
+        "image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
+        "url":"https://listeamed.net/v/PlBVEZ1Xbv6xDv9",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Revolutions",
+        "info":"[Español][2003]",
+        "image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
+        "url":"https://listeamed.net/v/4bQVOj3BNoo5wKm",
+        "isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Resurrections",
+        "info":"[Español][2021]",
+        "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+        "url":"https://listeamed.net/v/qA3WOmMmdpPOKkz",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Generation Matrix",
+        "info":"[Español][2023]",
+        "image": "https://pics.filmaffinity.com/matrix_generation-228019227-large.jpg",
+        "url":"https://listeamed.net/v/qM1VOPe0mDn5o4k",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+	]
+	},
+
+	{
+	"name": "LATINO",
+        "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+	"stations":
+	[
+        {
+        "name": "Matrix",
+        "info":"[Latino][1999]",
+        "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+        "url":"http://vod.tuxchannel.mx/peliculas4k/matrix.mkv",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Reloaded",
+        "info":"[Latino][2003]",
+        "image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
+        "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20reloaded.mkv",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Revolutions",
+        "info":"[Latino][2003]",
+        "image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
+        "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20revolutions.mkv",
+       	"isHost": "",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+        {
+        "name": "Matrix Resurrections",
+        "info":"[Latino][2021]",
+        "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+        "url":"https://www.tokyvideo.com/es/video/cinerave-matrix-4-resurrecciones-j-c",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+	]
+	}
+
+    ]
+}

@@ -1,0 +1,40 @@
+
+{
+"name": "Los Caraduras",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Saga.Los.Caraduras.w3u",
+"info": "Lista_AF1CIONADOS",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+	[
+	    {
+        "name": "Los Caraduras",
+        "info":"[Español][1977]",
+        "image": "https://i.postimg.cc/HWqcK7nt/caraduras-I.png",
+        "url":"https://pixeldrain.com/u/GHaowRJC",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "Los Caraduras II",
+        "info":"[Español][1980]",
+        "image": "https://i.postimg.cc/ncfrTbSR/caraduras2.png",
+        "url":"https://filemoon.sx/d/kb1ssjb8mtw4",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "Los Caraduras III",
+        "info":"[Español][1983]",
+        "image": "https://i.postimg.cc/WzLN9g8F/caraduras3.png",
+        "url":"https://filemoon.sx/d/vaucxe09dxve",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}
+

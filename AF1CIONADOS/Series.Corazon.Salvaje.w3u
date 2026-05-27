@@ -1,0 +1,651 @@
+{
+"name": "Corazon Salvaje",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Corazon.Salvaje.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{
+ 		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2161948822113",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161949149793",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161949543009",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161950067297",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161950853729",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161955113569",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 07",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161955179105",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 08",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161955768929",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 09",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161955703393",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 10",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161980738145",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 11",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2161980672609",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 12",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161980803681",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 13",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161981327969",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 14",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161981459041",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 15",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161981393505",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 16",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161981721185",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 17",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161981786721",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 18",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161982245473",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 19",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161982311009",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 20",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161982442081",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 21",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2161982573153",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 22",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161982507617",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 23",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161983359585",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 24",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161983294049",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 25",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161983687265",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 26",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161983752801",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 27",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161984211553",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 28",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161984146017",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 29",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161984866913",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 30",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2161984735841",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 31",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2162018617953",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 32",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162018683489",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 33",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162018749025",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 34",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019207777",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 35",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019142241",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 36",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019076705",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 37",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019666529",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 38",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019732065",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 39",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162019600993",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 40",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162099489377",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 41",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2162099685985",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 42",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162099554913",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 43",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100144737",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 44",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100275809",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 45",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100210273",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 46",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100734561",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 47",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100800097",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 48",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162100865633",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 49",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162101389921",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 50",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162101455457",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 51",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"hhttps://ok.ru/video/2162102045281",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 52",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162102176353",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 53",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162102110817",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 54",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162102766177",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 55",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162102831713",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 56",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162103356001",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 57",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162103552609",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 58",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162103618145",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 59",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162104273505",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 60",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162104339041",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 61",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2162104404577",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 62",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162104928865",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 63",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162105059937",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 64",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162104994401",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 65",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162105649761",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 66",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162105780833",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 67",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162105715297",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 68",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162121902689",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 69",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162122033761",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 70",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162121968225",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+ 		"name": "Episodio 71",
+ 		"info":"",
+ 		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+ 		"url":"https://ok.ru/video/2162122623585",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 72",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162122754657",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 73",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162122689121",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 74",
+		"info":"",
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162123344481",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 75",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162123410017",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 76",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162123475553",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 77",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162124655201",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 78",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162126096993",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 79",
+		"info":"",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162125965921",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 80",
+		"info":"[FINAL]",  
+		"image":"https://i.postimg.cc/Jzbh2h4X/corazon-salvaje22.jpg",
+		"url":"https://ok.ru/video/2162126031457",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}

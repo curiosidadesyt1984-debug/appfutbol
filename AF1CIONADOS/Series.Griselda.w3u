@@ -1,0 +1,71 @@
+{
+"name": "Griselda",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Griselda.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{		
+		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+ 		"url":"https://listeamed.net/v/edVqE4XV74EYWmQ",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+ 		"isHost":"",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://listeamed.net/v/8lKQxY2v72EDGYb",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+		"isHost":"",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://listeamed.net/v/P0poO1wV7Dxz17v",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+		"isHost":"",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://listeamed.net/v/VqbX53JVz1OQzpl",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+		"isHost":"",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://listeamed.net/v/eL21578V2Bxrw48",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+		"isHost":"",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://listeamed.net/v/g9Vd5JrZNg5qQjG",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer" : "https://iosmirror.cc/home",
+		"isHost":"",
+		"online":"true"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+"name": "MovIEs Principal",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
+"telegram": "Enlace_Af1cionados",
+"info":"",
+"groups":
+    [
+        {
+         "name": "CinE LaTinO",
+         "image": "https://i.postimg.cc/y8DcmL7X/Cine-Latino2-new.png",
+         "url": "https://af1c1onados.vercel.app/06.1.0.CinE.LaTinO.w3u",
+         "info":"",
+         "import": false
+        },
+	    {
+         "name": "CinE EsPañOL",
+         "image": "https://i.postimg.cc/Bvq8hN0V/Cine-espa-ol-New.png",
+         "url": "https://cutt.ly/2tXWlnt8",
+         "info":"by Virgin Mary",
+         "import": false
+        },
+	    {
+         "name": "CinE EsPañOL Retro",
+         "image": "https://i.postimg.cc/QNb6srVd/fotoefectos-com-1-removebg-preview-1.png",
+         "url": "https://tinworld.vercel.app/10.0.7 Films.Retro.Español.w3u",
+         "info":"",
+         "import": false
+        },
+	    {
+         "name": "CinE iNFantIL",
+         "image": "https://i.postimg.cc/Bb3DPGZg/kids-zone-new.png",
+         "url": "https://af1c1onados.vercel.app/Menu.Kids.Zone.w3u",
+         "info":"",
+         "import": false
+        },
+	    {
+         "name": "CinE sUBtitULadO",
+         "image": "https://i.postimg.cc/2yZk2LX6/Cine-Sub-New.png",
+         "url": "https://af1cionados.vercel.app/CinE%20SuBTituLaDO.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+        "name": "Cine: Sagas",
+        "image": "https://i.postimg.cc/R0d07yzw/Sagas-New.png",
+        "url": "https://af1c1onados.vercel.app/13.Menu.Sagas.w3u",
+        "import": false
+        }
+    ]
+}

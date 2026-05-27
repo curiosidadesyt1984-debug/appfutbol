@@ -1,0 +1,597 @@
+{
+"name": "Deportes En Vivo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Deportes.En.Vivo.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+    [
+      {
+        "name": "Eurosport 1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/VvyC6y69/Eurosport-1.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-1-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 2 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/pd4xbRGZ/Eurosport-2.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-2-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 1 🇵🇹",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/VvyC6y69/Eurosport-1.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-1-pt/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 2 🇵🇹",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/pd4xbRGZ/Eurosport-2.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-2-pt/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 1 🇬🇧",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/VvyC6y69/Eurosport-1.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Eurosport 2 🇬🇧",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/pd4xbRGZ/Eurosport-2.png",
+        "url": "https://en.gdplayertv.to/live-tv/eurosport-2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Dazn F1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/yNd9pXtR/DAZN-F1.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-f1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 1 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/26yqTkq7/DAZN-1.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 2 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/d1fhxbrP/DAZN-2.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 3 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/fy0Vn8f3/DAZN-3.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-3-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn 4 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/DftgWDDM/DAZN-4.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-4-es/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "Dazn LaLIga 🇪🇸",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/Wbg708cb/DAZN-La-Liga.png",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },  
+      {
+        "name": "DAZN Combat",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-combat/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },  
+      {
+        "name": "DAZN Fast+",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-fast-plus/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "DAZN Rise",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-rise/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "DAZN Women's Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/dazn-womens-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "FS1 🇺🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/fox-sports-1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "FS2 🇺🇸",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/fox-sports-2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "LaLiga HyperMotion",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/laliga-hypermotion/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "LaLiga Live HyperMotion",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/laliga-live-hypermotion/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Rally TV",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/rally-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Red Bull TV",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/red-bull-tv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports F1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/skysports-f1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sports-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Golf",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sports-golf/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Sky Sports Calcio",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/sky-sport-calcio/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Motorsport",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-motorsport/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Football",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-football/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport La Liga",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-laliga/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Premier",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-premier-league/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Golf",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-golf/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Rugby",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-rugby/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SuperSport Tennis",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/supersport-tennis/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 2",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-3/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TNT Sports 4",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tnt-sports-4/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn1/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 2",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn3/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 4",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn4/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "TSN 5",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/tsn5/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "WWE Network",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/wwe-network/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "Fox Sports 3",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://dlhd.so/embed/stream-789.php",
+        "userAgent": "",
+        "embed": "",
+        "isHost": "true"
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      }, 
+      {
+        "name": "SPOTV1",
+        "info":"",
+        "online":"true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/spotv/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "SPOTV2",
+        "info": "",
+        "online": "true",
+        "image": "",
+        "url": "https://en.gdplayertv.to/live-tv/spotv2/?embed=1",
+        "userAgent": "",
+        "embed": "true",
+        "isHost": ""
+      },
+      {
+        "name": "PRUEBA 02",
+        "info":"",
+        "online":"true",
+        "image": "https://i.postimg.cc/25gXK9XF/Fiba-2023-new.png",
+        "url": "https://maindots.co/dtvpl2.html?id=1059&lang=1",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+      },
+      {
+        "name": "Acestream",
+        "info":"",
+        "image": "https://torrentfreak.com/images/ace-stream.jpg",
+        "url": "acestream://3587ac1f2121cf86070e83763ec0e7a5e0f04522"
+      }
+    ]
+}

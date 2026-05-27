@@ -1,0 +1,53 @@
+{
+"name": "ZoNa DepOrTiVa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"groups":
+    [
+        {
+         "name": "ZOna DepORtivA",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA 2",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.2.m3u",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA 3",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.stark9.workers.dev/tvtvhd",
+         "import": false
+        },
+        {
+         "name": "zOna Live Streams",
+         "image": "https://i.postimg.cc/mDdwRKGk/Live-Stream.png",
+         "url": "https://af1c1onados.stark9.workers.dev/roxie",
+         "import": false
+        },
+        {
+         "name": "NBA StREamS",
+         "image": "https://i.postimg.cc/C58MjdLB/logonba-new.png",
+         "url": "https://af1c1onados.stark9.workers.dev/nba",
+         "import": false
+        },
+        {
+         "name": "NHL StREamS",
+         "image": "https://i.postimg.cc/Y91yYHB2/nhl-logo-jersey.png",
+         "url": "https://af1c1onados.stark9.workers.dev/nhl",
+         "import": false
+        },
+        {
+         "name": "MLB StREamS",
+         "image": "https://i.postimg.cc/SKFvL14v/MLB.png",
+         "url": "https://af1c1onados.stark9.workers.dev/mlb",
+         "import": false
+        }
+    ]
+}

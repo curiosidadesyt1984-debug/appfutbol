@@ -1,0 +1,65 @@
+{
+"name": "Angela",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Angela.w3u",
+"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/sme45mshduin/Angela_1x01__2024_.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+ 				"name": "Episodio 02",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/3qvgrftlrw0j/Angela_1x02.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/xf6xrbnrzi0w/Angela_1x03.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/s2ankez5r3xq/Angela_1x04.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/od5h6p5joima/Angela_1x05.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+ 				"info":"[2024]",
+ 				"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
+ 				"url":"https://filemoon.to/d/j6d4cil8s9ds/Angela_1x06.mp4",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+    ]
+    }

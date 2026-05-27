@@ -1,0 +1,83 @@
+{
+"name": "Indomable",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Indomable.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 				{
+ 				"name": "Episodio 01",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/8fprdgs12rdd/indomable-1x01",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				},
+				{
+				"name": "Episodio 02",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/jh020mx2zdtt/indomable-1x02",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				},
+				{
+				"name": "Episodio 03",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/a1y98hlmodym/indomable-1x03",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				},
+				{
+				"name": "Episodio 04",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/llg4cmu4p4wc/indomable-1x04",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				},
+				{
+				"name": "Episodio 05",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/sgd2peea8g3a/indomable-1x05",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				},
+				{
+				"name": "Episodio 06",
+				"image": "https://pics.filmaffinity.com/untamed-270926498-large.jpg",
+				"url": "https://byseraguci.com/d/uu9e3ju9tyhq/indomable-1x06",
+				"info": "[Español 2025]",
+				"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+				"referer": "",
+				"embed": "",
+				"isHost": "true",
+				"online": "true",
+				"import": false
+				}
+	]
+}

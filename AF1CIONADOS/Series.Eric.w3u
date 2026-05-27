@@ -1,0 +1,65 @@
+{
+"name": "Eric",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Eric.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Episodio 01",
+		"info":"[MultiAudio]",
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/h0c5w8qylapi",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"[MultiAudio]",
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/19374pp5seo8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"[MultiAudio]",
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/4xizcpa0fyv5",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"[MultiAudio]",
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/8tvh643j7lou",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"[MultiAudio]",  
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/41lahrcm4j78",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"[MultiAudio]",  
+		"image":"https://hips.hearstapps.com/hmg-prod/images/eric-poster-serie-netflix-6658ef03a6907.jpg",
+		"url":"https://filemoon.sx/d/q7uqleakx6vh",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}
