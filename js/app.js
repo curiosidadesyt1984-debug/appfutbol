@@ -32,6 +32,10 @@ const Auth = {
   showApp() {
     this.overlay.classList.add("hidden");
     this.appContainer.classList.remove("hidden");
+    if (!this._appStarted) {
+      this._appStarted = true;
+      App.start();
+    }
   },
 
   isLoggedIn() {
@@ -43,9 +47,7 @@ const App = {
   BASE: "AF1CIONADOS",
   trail: [],
 
-  async init() {
-    Auth.init();
-    if (!Auth.isLoggedIn()) return;
+  async start() {
     UI.init();
     Player.init();
     await this.loadMainMenu();
@@ -159,4 +161,4 @@ const App = {
   },
 };
 
-document.addEventListener("DOMContentLoaded", () => App.init());
+document.addEventListener("DOMContentLoaded", () => Auth.init());
