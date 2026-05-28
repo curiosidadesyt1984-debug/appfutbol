@@ -14,8 +14,19 @@ const Player = {
     this.closeBtn.addEventListener("click", () => this.close());
   },
 
+  isMobile() {
+    return /Android|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent)
+      || (navigator.maxTouchPoints > 1 && window.innerWidth < 1024);
+  },
+
   open(stream) {
     this.stream = stream;
+
+    if (this.isMobile()) {
+      App.openLink(stream.url);
+      return;
+    }
+
     this.titleEl.textContent = stream.name + (stream.info ? " " + stream.info : "");
 
     this.frame.src = stream.url;
