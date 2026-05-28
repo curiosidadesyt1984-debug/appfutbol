@@ -47,7 +47,10 @@
     <div id="player" class="player hidden">
       <div class="player-header">
         <span id="playerTitle"></span>
-        <button id="playerClose" class="player-close">&times;</button>
+        <div class="player-actions">
+          <a id="playerDirectLink" class="player-direct-link" href="#" target="_blank" rel="noopener noreferrer" title="Abrir en navegador">&#128279;</a>
+          <button id="playerClose" class="player-close">&times;</button>
+        </div>
       </div>
       <div class="player-body">
         <iframe id="playerFrame" allowfullscreen sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>

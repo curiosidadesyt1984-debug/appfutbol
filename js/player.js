@@ -10,6 +10,7 @@ const Player = {
     this.titleEl = document.getElementById("playerTitle");
     this.frame = document.getElementById("playerFrame");
     this.closeBtn = document.getElementById("playerClose");
+    this.directLink = document.getElementById("playerDirectLink");
     this.closeBtn.addEventListener("click", () => this.close());
   },
 
@@ -17,11 +18,8 @@ const Player = {
     this.stream = stream;
     this.titleEl.textContent = stream.name + (stream.info ? " " + stream.info : "");
 
-    if (stream.embed) {
-      this.frame.src = stream.url;
-    } else {
-      this.frame.src = stream.url;
-    }
+    this.frame.src = stream.url;
+    this.directLink.href = stream.url;
 
     this.container.classList.remove("hidden");
   },

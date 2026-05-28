@@ -90,7 +90,7 @@ const App = {
         this.trail.push({ name: parsed.name, data: parsed });
         this.showCurrent();
       } catch (e) {
-        window.open(item.url, "_blank");
+        this.openLink(item.url);
       }
       return;
     }
@@ -101,7 +101,7 @@ const App = {
     }
 
     if (item.isHost) {
-      window.open(item.url, "_blank");
+      this.openLink(item.url);
       return;
     }
 
@@ -147,6 +147,23 @@ const App = {
       return url.split("/").pop() || url;
     }
     return url;
+  },
+
+  openLink(url) {
+    try {
+      const w = window.open(url, "_blank", "noopener,noreferrer");
+      if (!w || w.closed || typeof w.closed === "undefined") {
+        const a = document.createElement("a");
+        a.href = url;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+      }
+    } catch (e) {
+      location.href = url;
+    }
   },
 
   async fetchLocal(filename) {

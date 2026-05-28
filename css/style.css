@@ -233,6 +233,25 @@ body {
   flex-shrink: 0;
 }
 
+.player-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  margin-left: 12px;
+}
+
+.player-direct-link {
+  color: var(--text2);
+  text-decoration: none;
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 4px;
+  transition: color 0.15s;
+}
+
+.player-direct-link:hover { color: var(--accent); }
+
 .player-close {
   background: none;
   border: none;
@@ -337,7 +356,7 @@ body {
 
   .sidebar.open { transform: translateX(0); }
 
-  .main { margin-left: 0; padding: 0 12px 12px; }
+  .main { margin-left: 0; padding: 0 10px 10px; }
 
   .menu-toggle { display: block; }
 
@@ -345,13 +364,75 @@ body {
 
   .player {
     left: 0;
-    height: 55vh;
+    right: 0;
+    bottom: 0;
+    height: 100vh;
+    border-top: none;
+    z-index: 200;
+  }
+
+  .player-header {
+    padding: 12px 16px;
+    font-size: 0.9rem;
+  }
+
+  .player-close {
+    font-size: 2rem;
+    padding: 4px 12px;
   }
 
   .content {
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .card { border-radius: 10px; }
+
+  .card-img { aspect-ratio: 16/10; }
+
+  .card-title {
+    font-size: 0.85rem;
+    -webkit-line-clamp: 3;
+  }
+
+  .card-info { font-size: 0.75rem; }
+
+  .card-body { padding: 10px 10px 12px; }
+
+  .topbar { padding: 12px 0 12px 50px; }
+
+  .breadcrumbs { font-size: 0.78rem; }
+
+  .login-box {
+    width: 90%;
+    max-width: 340px;
+    padding: 32px 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content {
+    grid-template-columns: repeat(2, 1fr);
     gap: 8px;
   }
 
-  .topbar { padding: 12px 0 12px 50px; }
+  .card-body { padding: 8px 8px 10px; }
+
+  .card-title { font-size: 0.8rem; }
+
+  .card-info { font-size: 0.7rem; }
+
+  .player-header {
+    padding: 10px 12px;
+    font-size: 0.8rem;
+  }
+
+  #playerTitle {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 60vw;
+  }
+
+  .topbar { padding: 10px 0 10px 46px; }
 }
