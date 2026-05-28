@@ -1,8 +1,49 @@
+const Auth = {
+  USER: "miguel",
+  PASS: "12345678",
+
+  init() {
+    this.overlay = document.getElementById("loginOverlay");
+    this.form = document.getElementById("loginForm");
+    this.error = document.getElementById("loginError");
+    this.userInput = document.getElementById("loginUser");
+    this.passInput = document.getElementById("loginPass");
+
+    this.form.addEventListener("submit", e => {
+      e.preventDefault();
+      this.login();
+    });
+
+    if (sessionStorage.getItem("auth") === "ok") {
+      this.hide();
+    }
+  },
+
+  login() {
+    if (this.userInput.value === this.USER && this.passInput.value === this.PASS) {
+      sessionStorage.setItem("auth", "ok");
+      this.hide();
+    } else {
+      this.error.classList.remove("hidden");
+    }
+  },
+
+  hide() {
+    this.overlay.classList.add("hidden");
+  },
+
+  isLoggedIn() {
+    return sessionStorage.getItem("auth") === "ok";
+  },
+};
+
 const App = {
   BASE: "AF1CIONADOS",
   trail: [],
 
   async init() {
+    Auth.init();
+    if (!Auth.isLoggedIn()) return;
     UI.init();
     Player.init();
     await this.loadMainMenu();
