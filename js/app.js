@@ -150,6 +150,10 @@ const App = {
   },
 
   openLink(url) {
+    if (window.AntiSpam && window.AntiSpam.safeOpen) {
+      window.AntiSpam.safeOpen(url);
+      return;
+    }
     try {
       const w = window.open(url, "_blank", "noopener,noreferrer");
       if (!w || w.closed || typeof w.closed === "undefined") {

@@ -33,11 +33,13 @@ const Player = {
     this.directLink.href = stream.url;
 
     this.container.classList.remove("hidden");
+    if (window.AntiSpam) window.AntiSpam.setPlayerActive(true);
   },
 
   close() {
     this.container.classList.add("hidden");
     this.frame.src = "";
     this.stream = null;
+    if (window.AntiSpam) window.AntiSpam.setPlayerActive(false);
   },
 };
