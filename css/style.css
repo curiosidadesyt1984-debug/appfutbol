@@ -269,6 +269,8 @@ body {
 
 .login-overlay.hidden { display: none; }
 
+.app-container.hidden { display: none; }
+
 .login-box {
   background: var(--bg2);
   border: 1px solid #333;

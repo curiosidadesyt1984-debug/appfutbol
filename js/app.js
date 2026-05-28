@@ -4,6 +4,7 @@ const Auth = {
 
   init() {
     this.overlay = document.getElementById("loginOverlay");
+    this.appContainer = document.getElementById("appContainer");
     this.form = document.getElementById("loginForm");
     this.error = document.getElementById("loginError");
     this.userInput = document.getElementById("loginUser");
@@ -15,21 +16,22 @@ const Auth = {
     });
 
     if (sessionStorage.getItem("auth") === "ok") {
-      this.hide();
+      this.showApp();
     }
   },
 
   login() {
     if (this.userInput.value === this.USER && this.passInput.value === this.PASS) {
       sessionStorage.setItem("auth", "ok");
-      this.hide();
+      this.showApp();
     } else {
       this.error.classList.remove("hidden");
     }
   },
 
-  hide() {
+  showApp() {
     this.overlay.classList.add("hidden");
+    this.appContainer.classList.remove("hidden");
   },
 
   isLoggedIn() {

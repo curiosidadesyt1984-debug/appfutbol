@@ -7,29 +7,6 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <button id="menuToggle" class="menu-toggle" aria-label="Menú">&#9776;</button>
-
-  <nav id="sidebar" class="sidebar">
-    <div class="sidebar-header">
-      <h2>FUTBOL</h2>
-    </div>
-    <ul id="navList" class="nav-list"></ul>
-  </nav>
-
-  <div id="overlay" class="overlay"></div>
-
-  <main id="main" class="main">
-    <div class="topbar">
-      <ol id="breadcrumbs" class="breadcrumbs"></ol>
-    </div>
-    <div id="content" class="content"></div>
-    <div id="loading" class="loading hidden">
-      <div class="spinner"></div>
-      <span>Cargando...</span>
-    </div>
-    <div id="error" class="error hidden"></div>
-  </main>
-
   <div id="loginOverlay" class="login-overlay">
     <div class="login-box">
       <h1>AF1CIONADOS</h1>
@@ -42,13 +19,38 @@
     </div>
   </div>
 
-  <div id="player" class="player hidden">
-    <div class="player-header">
-      <span id="playerTitle"></span>
-      <button id="playerClose" class="player-close">&times;</button>
-    </div>
-    <div class="player-body">
-      <iframe id="playerFrame" allowfullscreen sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
+  <div id="appContainer" class="app-container hidden">
+    <button id="menuToggle" class="menu-toggle" aria-label="Menú">&#9776;</button>
+
+    <nav id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <h2>FUTBOL</h2>
+      </div>
+      <ul id="navList" class="nav-list"></ul>
+    </nav>
+
+    <div id="overlay" class="overlay"></div>
+
+    <main id="main" class="main">
+      <div class="topbar">
+        <ol id="breadcrumbs" class="breadcrumbs"></ol>
+      </div>
+      <div id="content" class="content"></div>
+      <div id="loading" class="loading hidden">
+        <div class="spinner"></div>
+        <span>Cargando...</span>
+      </div>
+      <div id="error" class="error hidden"></div>
+    </main>
+
+    <div id="player" class="player hidden">
+      <div class="player-header">
+        <span id="playerTitle"></span>
+        <button id="playerClose" class="player-close">&times;</button>
+      </div>
+      <div class="player-body">
+        <iframe id="playerFrame" allowfullscreen sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
+      </div>
     </div>
   </div>
 
